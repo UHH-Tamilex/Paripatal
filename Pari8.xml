@@ -5,9 +5,10 @@
         <title>
             <title xml:lang="ta">Paripāṭal </title> <num>8</num>.
             <persName xml:lang="ta">Nallantuvaṉār </persName>
-        </title>     
-      </titleStmt>
-      <publicationStmt><p/></publicationStmt>
+          </title> 
+          <editor role="translator">Maanasa Visweswaran</editor>  
+          </titleStmt>
+          <publicationStmt><p/></publicationStmt>
       <sourceDesc>
         <msDesc xml:lang="en">
           <msIdentifier>
