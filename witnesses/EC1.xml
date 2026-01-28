@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Paripāṭal </title>
+            
+         <editor><persName>Maanasa Visweswaran</persName><orgName>Universität Hamburg</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>TST Project</publisher>
+            <date>2026</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>University of Toronto</orgName>
+                  </repository>
+                  <idno type="shelfmark">gc-sh5-0231</idno>
+                  <idno type="alternate"/>
+               <idno type="URI">https://archive.org/details/gc-sh5-0231</idno></msIdentifier>
+               <msContents class="#STM">
+                  <summary>1st edition </summary>
+                  
+               <msItem xml:id="EC1" defective="false"><title xml:lang="ta">Paripāṭal</title><textLang mainLang="tam"/></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="codex" rend="movable-type">
+                     <supportDesc material="paper industrial">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        </support><extent>
+                           <measure unit="page" quantity="260"/>
+                           <dimensions type="object" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent></supportDesc>
+                     <layoutDesc>
+                        
+                     </layoutDesc>
+                  </objectDesc><handDesc/><typeDesc><typeNote scope="sole" script="tamil" medium="ink black"/></typeDesc><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian" when="1916"/>
+                     
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>Tamil script </p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   <graphic url="https://iiif.archive.org/iiif/gc-sh5-0231/manifest.json"/></facsimile>
+   <!--
+      <app><lem>(lemma)</lem><rdg wit="#p1">(reading)</rdg></app>
+
+      <app><lem>(lemma)</lem><rdg wit="#p1">(reading1)</rdg><rdg wit="#p2">(reading2)</rdg></app>
+
+   -->
+<text corresp="#EC1" xml:lang="ta"><body>
+  <pb n="55" facs="85"/>
+  <head><lb/>eṭṭām pāṭal.</head>
+  <head type="sub"><lb/>cevvēḷ.</head>
+      <lg xml:id="Pari8">
+<l><lb/>maṇmicai yaviḻtuḻāy malartaru celvattup</l>
+<l><lb/>puṇmicaik koṭiyōṉum puṅkava mūrvōṉu</l>
+<l><lb/>malarmicai mutalvaṉu maṟṟava ṉiṭaittōṉṟi</l>
+<l><lb/>yulakiru ḷakaṟṟiya patiṉmaru miruvaru</l>
+<l><lb/>marunturai yiruvarun tiruntunū leṇmaru</l>
+<l><lb/>mātirai mutalvaṉiṟ kiḷanta</l>
+<l><lb/>nātarpaṉ ṉoruvaru naṉṟicai kāppōrum</l>
+<l><lb/>yāvarum piṟaru mamararu mavuṇaru</l>
+<l><lb/>mēvaru mutumoḻi viḻuttava mutalvarum</l>
+<l><lb/>paṟṟā kiṉṟuniṉ <app><lem>kāraṇa mākap</lem><rdg wit="#p1"><unclear>kāraṇam</unclear></rdg></app></l>
+<l><lb/>paraṅkuṉ ṟimayak kuṉṟa nikarkku</l>
+<l><lb/>mimayak kuṉṟiṉiṟ <app><lem>ciṟantu</lem><rdg wit="#p1">ciṟanta</rdg></app></l>
+<l><lb/>niṉṉīṉṟa niraiyitaḻttāmarai</l>
+<l><lb/>miṉṉīṉṟa viḷaṅkiṇarūḻā</l>
+<l><lb/>vorunilaip poykaiyō ṭokkuniṉ kuṉṟi</l>
+<l><lb/>ṉaruvitāḻ mālaiccuṉai</l>
+<l><lb/>mutalvaniṉ yāṉai muḻakkaṅ kēṭṭa</l>
+<l><lb/>katiyiṟṟē kāriṉ kural</l>
+<l><lb/>kuralkēṭṭa kōḻi <app><lem>kuṉṟatirak kūva</lem><rdg wit="#p1">kuṉṟatir kūva</rdg><rdg wit="#p2">kuṉṟetir kūva</rdg></app></l>
+<l><lb/>matanaṉi vāraṇa māṟumā ṟatirppa</l>
+<l><lb/>vetirkuti rākiṉ ṟatirppu malaimuḻai</l>
+<l><lb/>yēḻpuḻai yaimpuḻai yāḻicaikēḻt taṉṉa<app><lem>viṉam</lem><rdg wit="#p1">naṉai</rdg></app></l>
+<l><lb/>vīḻtumpi <app><lem>vaṇṭoṭu miñiṟārppac</lem><rdg wit="#p1">vaṇṭoṭiṉamiñiṟu</rdg></app>cuṉaimalarak</l>
+<l><lb/>koṉṟai koṭiyiṇa rūḻppak koṭimalar</l>
+<l><lb/><app><lem>maṉṟala malara</lem><rdg wit="#p1">maṉṟaṉmalara</rdg></app> malarkāntaḷ vāynāṟa</l>
+<l><lb/>naṉṟaviḻ paṉmalar nāṟa naṟaipaṉippat</l>
+<l><lb/>teṉṟa <app><lem>lacaivarūuñ cemmaṟṟē yammaniṉ</lem><rdg wit="#p1">lacaivun takaimaittē varūuñ</rdg></app></l>
+<l><lb/>kuṉṟattāṟ kūṭal varavu</l>
+<l><lb/>kuṉṟa muṭaitta <app><lem>voḷirvēlōy </lem><rdg wit="#p1">voḷiṟuvēlōy</rdg></app>kūṭaṉ</l>
+<l><lb/>maṉṟal kalanta maṇimuraci ṉārppeḻak</l>
+<l><lb/>kāloṭumayaṅkiya kaliḻkaṭaleṉa</l>
+<l><lb/>mālkaṭal kuṭikku maḻaikkuraleṉa</l>
+<l><lb/>vēṟatirkku mintira ṉirumuru meṉa</l>
+<l><lb/>maṉṟa latiratira māṟumā ṟatirkkuniṉ</l>
+<l><lb/>kuṉṟaṅ kumuṟiya vurai</l>
+<l><lb/>tūtēya vaṇṭiṉ ṟoḻuti muralvavar</l>
+<l><lb/>kātaṉmū tūrmatil kampalait taṉṟu</l>
+<l><lb/>vaṭuvakir veṉṟakaṇ māntaḷir mēṉi</l>
+<l><lb/>neṭumeṉ paṇaittōṭ kuṟuntoṭi makaḷi</l>
+<l><lb/>rārāk kāma mārpoḻiṟ pāyal</l>
+<l><lb/>varaiyakat tiyaikkum varaiyā nukarcci</l>
+<l><lb/>muṭiyā nukarcci muṟṟāk kāta</l>
+<l><lb/>laṭiyōr mainta rakalat takalā</l>
+<l><lb/>valarñemaṉ makaṉṟi ṉaṉṉarp puṇarcci</l>
+<l><lb/>pularā makiḻmaṟap paṟiyātu nalkuñ</l>
+<l><lb/>ciṟappiṟṟē taṇparaṅ kuṉṟu</l>
+<l><lb/>iṉimaṉṉu mētilar nāṟuti yāṇṭup</l>
+<l><lb/>paṉimalark kaṇṇārō ṭāṭa nakaimalar</l>
+<l><lb/>mālaikku mālai varūum varaicūṇil</l>
+<l><lb/>kālaippōy mālai varavu</l>
+<l><lb/>iṉimaṇal vaiyai yirumpoḻiluṅ kuṉṟap</l>
+<l><lb/>paṉipoḻi cāralum pārppārun</l>
+<l><lb/>tuṉiyaṉ malaruṇkaṇ colvēṟu nāṟṟaṅ</l>
+<l><lb/>kaṉiyiṉ malariṉ malirkālcīp piṉṉatu</l>
+<l><lb/>tuṉiya ṉaṉinīniṉ <app><lem>cūḷ</lem><rdg wit="#p1">cūḷ cūḷēl</rdg></app></l>
+<l><lb/><app><lem>eṉpāṇi</lem><rdg wit="#p1">pāṇi</rdg></app> niṉṉi lelāapāṇi nīniṉcūḷ</l>
+<l><lb/>cāṉṟāḷa rīṉṟa takāatta kāamakāa</l>
+<l><lb/>ṉīṉṟāṭ korupeṇ ṇivaḷ</l>
+<l><lb/>iruṇmaiyī ruṇka ṇilaṅkiḻai yīṉṟāṭ</l>
+<l><lb/>kariyaḷō vāva taṟintilē ṉītā</l>
+<l><lb/>varupuṉal vaiyaimaṇa ṟoṭṭēṉ ṟarumaṇavē</l>
+<l><lb/><app><lem>ṭaṇparaṅ kuṉṟat</lem><rdg wit="#p1">ṭaṉparaṅkuṉṟu</rdg></app>taṭitoṭṭē ṉeṉpāy</l>
+<l><lb/>kēḷir maṇaliṉ keḻuvu mituvō</l>
+<l><lb/>vēḻulaku māḷi tiruvaraimē laṉpaḷitō</l>
+<l><lb/>veṉṉai yaruḷi yaruṇmuruku cūḷcūḷi</l>
+<l><lb/>ṉiṉṉai yaruḷi <app><lem>laṇaṅkāṉmey</lem><rdg wit="#p1">laṇaṅkuṭakāṉamey</rdg></app> vēṟiṉṉum</l>
+<l><lb/>viṟalveyyō ṉūrmayil vēṉiḻa ṉōkki</l>
+<l><lb/><app><lem>yaṟava raṭi</lem><rdg wit="#p1">yāva raṭi</rdg></app>toṭiṉu māṅkavai cūḷēl</l>
+<l><lb/>kuṟavaṉ makaḷāṇai kūṟēlā kūṟē</l>
+<l><lb/>laiya cūḷi ṉaṭitoṭu kuṉṟoṭu</l>
+<l><lb/>vaiyaikkut takka maṇaṟcīrcūḷ kūṟal</l>
+<l><lb/>yārpiriya yārvara yārviṉava yārceppu</l>
+<l><lb/>nīruraicey nīrmaiyil cūḷeṉṟi nēriḻāy</l>
+<l><lb/><app><lem>kayavāya</lem><rdg wit="#p1">kayavaru</rdg></app>neytalalar kamaḻmukai maṇanakai</l>
+<l><lb/>nayavaru naṟavitaḻ mataruṇkaṇ <app><lem>vāṇutaṉ</lem><rdg wit="#p1">vāṇutalār</rdg></app></l>
+
+<l><lb/>mukaimullai veṉṟeḻiṉ muttēykkum veṇpa</l>
+<l><lb/>ṉakaicāṉṟa kaṉavaṉṟu naṉavaṉṟu naviṉṟatai</l>
+<l><lb/>yiṭutuṉi kaiyāṟā veṟṟuyar kūrac</l>
+<l><lb/>cuṭumiṟai yāṟṟici ṉaṭicērntu cāṟṟumiṉ</l>
+<l><lb/>mika, ēṟṟutumala rūṭṭutu mavi</l>
+<l><lb/><app><lem>kēṭṭutum</lem><rdg wit="#p1">tōṟṟutum</rdg></app> pāṇi yeḻutuṅ kiṇaimurukaṉ</l>
+<l><lb/>ṟāṭṭoḻu taṇparaṅ kuṉṟu</l>
+<l><lb/>teriyiḻāy celkeṉṟā yellāyām peṟṟē</l>
+<l><lb/>moruvarkkum poyyāniṉ vāyilcūḷ vauval</l>
+<l><lb/>paruvattup paṉmāṇī cēṟaliṟ kāṇṭai</l>
+<l><lb/>yerumai yiruntōṭṭi yeḷḷīyuṅ kāḷai</l>
+<l><lb/>ceruvañ ceyaṟkeṉṉai muṉṉaittaṉ ceṉṉi</l>
+<l><lb/>yaruḷvayiṉāṟ ṟūṅku maṇikaiyāṟ ṟākki</l>
+<l><lb/>niraivaḷai yāṟṟiruñ cūḷ</l>
+<l><lb/>vaḷiporu cēṭcimai varaiyakattāṟ</l>
+<l><lb/>ṟaḷiperukun taṇciṉaiya</l>
+<l><lb/>poḻilkoḷak kuṟaiyāmalarak</l>
+<l><lb/>kuḷirpoykai yaḷaṟuniṟaiya</l>
+<l><lb/>marutanaḷi maṇaṉñemarnta</l>
+<l><lb/>naṉimalarp peruvaḻic</l>
+<l><lb/>cīṟaṭiyavar cāṟukoḷa veḻuntu</l>
+<l><lb/>vēṟupaṭu cāntamum vīṟupaṭu pukaiyu</l>
+<l><lb/>māṟucel vaḷiyi ṉaviyā viḷakkamu</l>
+<l><lb/>nāṟukamaḻ vīyuṅ kūṟumicai muḻavamu</l>
+<l><lb/>maṇiyuṅ kayiṟu mayiluṅ kuṭāriyum</l>
+<l><lb/>piṇimuka muḷappaṭap piṟavu mēnti</l>
+<l><lb/>yaruvaraic cērāt toḻunar</l>
+<l><lb/>kaṉaviṟ ṟoṭṭatu kaipiḻai yākātu</l>
+<l><lb/>naṉaviṟ cēeppaniṉ ṉaḷipuṉal vaiyai</l>
+<l><lb/>varupuṉa laṇikeṉa varaṅkoḷ vōruṅ</l>
+<l><lb/>karuvayi ṟuṟukeṉak kaṭampaṭu vōruñ</l>
+<l><lb/>ceyporuḷ vāykkeṉac cevicārttu vōru</l>
+<l><lb/>maiyama raṭukeṉa varuccip pōrum</l>
+<l><lb/>pāṭuvār pāṇiccīru māṭuvā raraṅkat tāḷamu</l>
+<l><lb/>mañcāṭu malaimuḻakkun</l>
+<l><lb/>tuñcāk kampalaip</l>
+<l><lb/>paiñcuṉaip pāa yeḻupāvaiya</l>
+<l><lb/>rāyita ḻuṇka ṇalarmukat tāmarai</l>
+<l><lb/>tāṭṭā maraittōṭ ṭamaṉiyak kayamala</l>
+<l><lb/>reṅkaip patumaṅ koṅkaik kayamukaic</l>
+<l><lb/>cevvā yāmpal ceṉṉīrt tāmarai</l>
+<l><lb/>puṉaṟṟā maraiyoṭu pulamvēṟu pāṭuṟāk</l>
+<l><lb/>kūreyiṟṟār kuvimulaip pūṇoṭu</l>
+<l><lb/>māra ṉoppār mārpaṇi kalavi</l>
+<l><lb/>yarivaiya ramirtapāṉa</l>
+<l><lb/>murimai mākka ḷuvakai yamirtuyppa</l>
+<l><lb/>maintar mārvam vaḻivanta</l>
+<l><lb/>centaḷir mēṉiyār cella ṟīrppa</l>
+<l rend="space">veṉavāṅku,</l>
+<l><lb/>uṭampuṇar kātalaru mallāruṅ kūṭik</l>
+<l><lb/>kaṭampamar celvaṉ kaṭinakar pēṇa</l>
+<l><lb/>maṟumiṭaṟ ṟaṇṇaṟku mācilō ṭanta</l>
+<l><lb/>neṟinī raruvi yacumpuṟu celva</l>
+<l><lb/>maṇpariya vāṉam vaṟappiṉu maṉṉukamā</l>
+<l><lb/>taṇparaṅ kuṉṟa niṉakku</l>
+      </lg>
+  </body></text></TEI>
