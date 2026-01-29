@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0" n="Ed">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="Ed">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -18,12 +21,32 @@
             </summary>
           </msContents>    
         </msDesc>
-      </sourceDesc>
+      <listWit>
+<witness xml:id="Ed" source="Pari8.xml">
+<abbr>Ed</abbr>
+<expan><title xml:lang="ta">Paripāṭal </title> <num>8</num>.
+            <persName xml:lang="ta">Nallantuvaṉār </persName></expan>
+</witness>
+<witness xml:id="EC1" source="witnesses/EC1.xml">
+            <abbr>E<hi rend="superscript">C1</hi></abbr>
+<expan>Paripāṭal, 1918 edition</expan>
+<listWit>
+<witness xml:id="EC1-p1" select="#p1">
+                <abbr type="siglum">E<hi rend="superscript">C1</hi>-p1</abbr>
+<expan>Paripāṭal, 1918 edition, variant reading</expan>
+</witness>
+<witness xml:id="EC1-p2" select="#p2">
+                <abbr type="siglum">E<hi rend="superscript">C1</hi>-p2</abbr>
+<expan>Paripāṭal, 1918 edition, second variant reading</expan>
+</witness>
+</listWit>
+</witness></listWit></sourceDesc>
     </fileDesc>
     <revisionDesc><change/></revisionDesc>
   </teiHeader>
 <text xml:lang="ta" type="edition">
   <body>
+      <div rend="parallel">
       <lg xml:id="Pari8">
 <l>maṇmicai yaviḻtuḻāy malartaru celvattup</l>
 <l>puṇmicaik koṭiyōṉum puṅkava mūrvōṉu</l>
@@ -158,6 +181,8 @@
 <l>taṇparaṅ kuṉṟa niṉakku</l>
 
       </lg>
+      <lg xml:lang="en"></lg>
+      </div>
   </body>
 </text>
 <standOff type="wordsplit" corresp="#Pari8">
@@ -5541,4 +5566,167 @@
 </gramGrp>
 </entry>
 </standOff>
-</TEI>
+<standOff type="apparatus" corresp="#Pari8" source="alignments/Pari8.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+  <app loc="305,316">
+    <lem wit="#EC1">kāraṇa mākap</lem>
+    <rdg wit="#EC1-p1">kāraṇam</rdg>
+  </app>
+  <app loc="359,366">
+    <lem wit="#EC1">ciṟantu</lem>
+    <rdg wit="#EC1-p1">ciṟanta</rdg>
+  </app>
+  <app loc="525,535">
+    <lem wit="#EC1">kuṉṟatirak</lem>
+    <rdg wit="#EC1-p1">kuṉṟatir</rdg>
+    <rdg wit="#EC1-p2">kuṉṟetir</rdg>
+  </app>
+  <app loc="632,637">
+    <lem wit="#EC1">viṉam</lem>
+    <rdg wit="#EC1-p1">naṉai</rdg>
+  </app>
+  <app loc="645,652">
+    <lem wit="#EC1">vaṇṭoṭu</lem>
+    <rdg wit="#EC1-p1">vaṇṭoṭiṉa</rdg>
+  </app>
+  <app loc="652,663">
+    <lem wit="#EC1">miñiṟārppac</lem>
+    <rdg wit="#EC1-p1">miñiṟu</rdg>
+  </app>
+  <app loc="705,712">
+    <lem wit="#EC1">maṉṟala</lem>
+    <rdg wit="#EC1-p1">maṉṟaṉ</rdg>
+  </app>
+  <app loc="774,779">
+    <lem wit="#EC1">lacai</lem>
+    <rdg wit="#EC1-p1">lacaivu</rdg>
+    <rdg wit="#EC1-p2">lacaivarū</rdg>
+  </app>
+  <app loc="779,801">
+    <lem wit="#EC1">varūuñ cemmaṟṟē yammaniṉ</lem>
+    <rdg wit="#EC1-p1">n takaimaittē varūuñ</rdg>
+    <rdg wit="#EC1-p2">uñ cemmaṟṟē yammaniṉ</rdg>
+  </app>
+  <app loc="834,844">
+    <lem wit="#EC1">voḷirvēlōy</lem>
+    <rdg wit="#EC1-p1">voḷiṟuvēlōy</rdg>
+  </app>
+  <app loc="1557,1566">
+    <lem wit="#EC1">ṉaṉinīniṉ</lem>
+    <rdg wit="#EC1-p2">ṉaṉinīni</rdg>
+  </app>
+  <app loc="1566,1575">
+    <rdgGrp type="lemma" select="#EC1">
+      <lem>cūḷ eṉpāṇi</lem>
+      <rdg type="minor" wit="#EC1">cūḷ <lb/>eṉpāṇi</rdg>
+    </rdgGrp>
+    <rdg wit="#EC1-p1">cūḷ cūḷēl pāṇi</rdg>
+    <rdg wit="#EC1-p2">ṉ cūḷ eṉpāṇi</rdg>
+  </app>
+  <app loc="1733,1756">
+    <lem wit="#EC1">ṭaṇparaṅ kuṉṟat taṭitoṭṭē</lem>
+    <rdg wit="#EC1-p1">ṭaṉparaṅkuṉ ṟaṭitoṭṭē</rdg>
+  </app>
+  <app loc="1860,1871">
+    <lem wit="#EC1">laṇaṅkāṉmey</lem>
+    <rdg wit="#EC1-p1">laṇaṅkuṭakāṉamey</rdg>
+  </app>
+  <app loc="1908,1914">
+    <lem wit="#EC1">yaṟava</lem>
+    <rdg wit="#EC1-p1">yāva</rdg>
+  </app>
+  <app loc="2084,2092">
+    <lem wit="#EC1">kayavāya</lem>
+    <rdg wit="#EC1-p1">kayavaru</rdg>
+  </app>
+  <app loc="2148,2155">
+    <lem wit="#EC1">vāṇutaṉ</lem>
+    <rdg wit="#EC1-p1">vāṇutalār</rdg>
+  </app>
+  <app loc="2316,2324">
+    <lem wit="#EC1">kēṭṭutum</lem>
+    <rdg wit="#EC1-p1">tōṟṟutum</rdg>
+  </app>
+  <app loc="2376,2384">
+    <lem wit="#EC1">celkeṉṟā</lem>
+    <rdg wit="#EC1-p1">colleṉṟā</rdg>
+  </app>
+  <app loc="2384,2392">
+    <lem wit="#EC1">yellāyām</lem>
+    <rdg wit="#EC1-p1">yēlāyām</rdg>
+  </app>
+  <app loc="2397,2408">
+    <lem wit="#EC1">moruvarkkum</lem>
+    <rdg wit="#EC1-p1">moruvaṟkum</rdg>
+  </app>
+  <app loc="2416,2424">
+    <lem wit="#EC1">vāyilcūḷ</lem>
+    <rdg wit="#EC1-p1">vāyiṟcūḷ</rdg>
+  </app>
+  <app loc="2497,2508">
+    <lem wit="#EC1">ceyaṟkeṉṉai</lem>
+    <rdg wit="#EC1-p1">ceyaṟkeṉṉa</rdg>
+  </app>
+  <app loc="2584,2592">
+    <lem wit="#EC1">cēṭcimai</lem>
+    <rdg wit="#EC1-p1">cēṭcimaiya</rdg>
+  </app>
+  <app loc="2605,2616">
+    <lem wit="#EC1">ṟaḷiperukun</lem>
+    <rdg wit="#EC1-p1">ṟaḷirperukun</rdg>
+    <rdg wit="#EC1-p2">ṟaḷirpeṟuñ</rdg>
+  </app>
+  <app loc="2616,2626">
+    <lem wit="#EC1">taṇciṉaiya</lem>
+    <rdg wit="#EC1-p2">ciṉai</rdg>
+  </app>
+  <app loc="2684,2697">
+    <lem wit="#EC1">maṇaṉñemarnta</lem>
+    <rdg wit="#EC1-p1">maṇaṉñemira</rdg>
+  </app>
+  <app loc="2900,2905">
+    <lem wit="#EC1">cērāt</lem>
+    <rdg wit="#EC1-p1">cēet</rdg>
+  </app>
+  <app loc="2905,2912">
+    <lem wit="#EC1">toṭunar</lem>
+    <rdg wit="#EC1-p1">teṭunarkku</rdg>
+  </app>
+  <app loc="2934,2940">
+    <lem wit="#EC1">yākātu</lem>
+    <rdg wit="#EC1-p1">yātu</rdg>
+  </app>
+  <app loc="3017,3026">
+    <lem wit="#EC1">kaṭampaṭu</lem>
+    <rdg wit="#EC1-p1">kaṭaṉpaṭu</rdg>
+  </app>
+  <app loc="3048,3058">
+    <lem wit="#EC1">cevicārttu</lem>
+    <rdg wit="#EC1-p1">cevicāttu</rdg>
+  </app>
+  <app loc="3425,3431">
+    <lem wit="#EC1">tuyppa</lem>
+    <rdg wit="#EC1-p1">tu vākka</rdg>
+  </app>
+  <app loc="3479,3488">
+    <lem wit="#EC1">veṉavāṅku</lem>
+    <rdg wit="#EC1-p1">vāṅka</rdg>
+  </app>
+  <app loc="3489,3498">
+    <lem wit="#EC1">uṭampuṇar</lem>
+    <rdg wit="#EC1-p1">uṭaṉpuṇarak</rdg>
+  </app>
+</listApp></standOff></TEI>
