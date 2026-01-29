@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0" n="Ed">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,7 +24,6 @@
   </teiHeader>
 <text xml:lang="ta" type="edition">
   <body>
-    <div rend="parallel">
       <lg xml:id="Pari8">
 <l>maṇmicai yaviḻtuḻāy malartaru celvattup</l>
 <l>puṇmicaik koṭiyōṉum puṅkava mūrvōṉu</l>
@@ -32,7 +31,7 @@
 <l>yulakiru ḷakaṟṟiya patiṉmaru miruvaru</l>
 <l>marunturai yiruvarun tiruntunū leṇmaru</l>
 <l>mātirai mutalvaṉiṟ kiḷanta</l>
-<l>nātar paṉṉoruvaru naṉṟicai kāppōrum</l>
+<l>nātarpaṉ ṉoruvaru naṉṟicai kāppōrum</l>
 <l>yāvarum piṟaru mamararu mavuṇaru</l>
 <l>mēvaru mutumoḻi viḻuttava mutalvarum</l>
 <l rend="space">paṟṟā kiṉṟuniṉ kāraṇa mākap</l>
@@ -56,9 +55,9 @@
 <l>kuṉṟattāṟ kūṭal varavu</l>
 <l rend="space">kuṉṟa muṭaitta voḷirvēlōy kūṭaṉ</l>
 <l>maṉṟal kalanta maṇimuraci ṉārppeḻak</l>
-<l>kāloṭu mayaṅkiya kaliḻkaṭaleṉa</l>
+<l>kāloṭumayaṅkiya kaliḻkaṭaleṉa</l>
 <l>mālkaṭal kuṭikku maḻaikkuraleṉa</l>
-<l>vēṟatirkku mintira ṉirumurumeṉa</l>
+<l>vēṟatirkku mintira ṉirumuru meṉa</l>
 <l>maṉṟa latiratira māṟumā ṟatirkkuniṉ</l>
 <l rend="space">kuṉṟaṅ kumuṟiya vurai</l>
 <l>tūtēya vaṇṭiṉ ṟoḻuti muralvavar</l>
@@ -72,7 +71,7 @@
 <l>valarñemaṉ makaṉṟi ṉaṉṉarp puṇarcci</l>
 <l>pularā makiḻmaṟap paṟiyātu nalkuñ</l>
 <l>ciṟappiṟṟē taṇparaṅ kuṉṟu</l>
-<l rend="space">iṉimaṉṉu mētilar nāṟuti yaṇṭup</l>
+<l rend="space">iṉimaṉṉu mētilar nāṟuti yāṇṭup</l>
 <l>paṉimalark kaṇṇārō ṭāṭa nakaimalar</l>
 <l>mālaikku mālai varūum varaicūṇil</l>
 <l>kālaippōy mālai varavu</l>
@@ -82,12 +81,12 @@
 <l>kaṉiyiṉ malariṉ malirkālcīp piṉṉatu</l>
 <l>tuṉiya ṉaṉinīniṉ cūḷ</l>
 <l rend="space">eṉpāṇi niṉṉi lelāapāṇi nīniṉcūḷ</l>
-<l>cāṉṟāḷa rīṉṟa takāattakāa makāa</l>
+<l>cāṉṟāḷa rīṉṟa <unclear>takāattakāa makāa</unclear></l>
 <l>ṉīṉṟāṭ korupeṇ ṇivaḷ</l>
 <l>iruṇmaiyī ruṇka ṇilaṅkiḻai yīṉṟāṭ</l>
 <l>kariyaḷō vāva taṟintilē ṉītā</l>
-<l>varupuṉal vaiyaimaṇa ṟoṭṭēṉ ṟarumaṇavēḷ</l>
-<l>taṇparaṅ kuṉṟat taṭitoṭṭē ṉeṉpāy</l>
+<l>varupuṉal vaiyaimaṇa ṟoṭṭēṉ ṟarumaṇavē</l>
+<l>ṭaṇparaṅ kuṉṟat taṭitoṭṭē ṉeṉpāy</l>
 <l>kēḷir maṇaliṉ keḻuvu mituvō</l>
 <l>vēḻulaku māḷi tiruvaraimē laṉpaḷitō</l>
 <l>veṉṉai yaruḷi yaruṇmuruku cūḷcūḷi</l>
@@ -102,7 +101,7 @@
 <l>kayavāya neytalalar kamaḻmukai maṇanakai</l>
 <l>nayavaru naṟavitaḻ mataruṇkaṇ vāṇutaṉ</l>
 
-<l>mukaimullai veṉṟeḻiṉ mutteykkum veṇpa</l>
+<l>mukaimullai veṉṟeḻiṉ muttēykkum veṇpa</l>
 <l>ṉakaicāṉṟa kaṉavaṉṟu naṉavaṉṟu naviṉṟatai</l>
 <l>yiṭutuṉi kaiyāṟā veṟṟuyar kūrac</l>
 <l>cuṭumiṟai yāṟṟici ṉaṭicērntu cāṟṟumiṉ</l>
@@ -128,7 +127,7 @@
 <l>nāṟukamaḻ vīyuṅ kūṟumicai muḻavamu</l>
 <l>maṇiyuṅ kayiṟu mayiluṅ kuṭāriyum</l>
 <l>piṇimuka muḷappaṭap piṟavu mēnti</l>
-<l>yaruvaraic cērāt toḻunar</l>
+<l>yaruvaraic cērāt toṭunar</l>
 <l>kaṉaviṟ ṟoṭṭatu kaipiḻai yākātu</l>
 <l>naṉaviṟ cēeppaniṉ ṉaḷipuṉal vaiyai</l>
 <l>varupuṉa laṇikeṉa varaṅkoḷ vōruṅ</l>
@@ -138,7 +137,7 @@
 <l>pāṭuvār pāṇiccīru māṭuvā raraṅkat tāḷamu</l>
 <l>mañcāṭu malaimuḻakkun</l>
 <l>tuñcāk kampalaip</l>
-<l rend="space">paiñcuṉaip pāa yeḻupāvaiya</l>
+<l rend="space">paiñcuṉaippāa yeḻupāvaiya</l>
 <l>rāyita ḻuṇka ṇalarmukat tāmarai</l>
 <l>tāṭṭā maraittōṭ ṭamaṉiyak kayamala</l>
 <l>reṅkaip patumaṅ koṅkaik kayamukaic</l>
@@ -147,7 +146,7 @@
 <l>kūreyiṟṟār kuvimulaip pūṇoṭu</l>
 <l>māra ṉoppār mārpaṇi kalavi</l>
 <l>yarivaiya ramirtapāṉa</l>
-<l>murimai mākka ḷuvakai yamirtuyppa</l>
+<l>murimai mākka ḷuvakaiyamir tuyppa</l>
 <l>maintar mārvam vaḻivanta</l>
 <l>centaḷir mēṉiyār cella ṟīrppa</l>
 <l rend="space">veṉavāṅku,</l>
@@ -159,10 +158,6 @@
 <l>taṇparaṅ kuṉṟa niṉakku</l>
 
       </lg>
-      <lg xml:lang="en">
-<!--put your translation here-->
-      </lg>
-    </div>
   </body>
 </text>
 <standOff type="wordsplit" corresp="#Pari8">
@@ -4270,13 +4265,23 @@
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
-<entry>
+<superEntry type="ambiguous">
+<entry><entry>
 <form>āṟu</form>
 <def>way</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
-</entry>
+</entry></entry>
+<entry><entry>
+<form>māṟu</form>
+<def>be opposed</def>
+<form type="sandhi">āṟu</form>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry></entry>
+</superEntry>
 <entry>
 <form>cel</form>
 <def>go</def>
@@ -4443,8 +4448,8 @@
 </gramGrp>
 </entry>
 <entry>
-<form>toḻunar</form>
-<def>worship-they</def>
+<form>toṭunar</form>
+<def>touch-they</def>
 <gramGrp>
   <gram type="role">participial noun</gram>
   <gram type="role">third person</gram>
