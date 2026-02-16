@@ -161,7 +161,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#Pari8">
-<interp type="alignment" select="0">52MG15MG2ML17MG2ML3MG19MG20MG8MG2ML5MG11MG17MG40MGMR14MG7MG7MG8MG8MG2ML23ML7MG6MG29MG11MR70MG26MG4MR64M2G29MG14MR11ML6MG22MG46MG29MG83MG39MG13M2G85MG48ML16MG48MG7MR25MG21MG12MG114MG68MG23ML31MG22M2G59MG40ML46MG21MG9MG58MG13ML74MG31MG11MG6MG6MG32ML31MG31M2G5MG9M2G20MG4M2G32ML25ML26ML4ML24MG28MG169MG9MG17ML19MG8MG12ML14MG9MG12MG77ML78MG26M2G40ML57MG66MG111MR39MG37MG15MG29MGMR11MG19MG2ML3MG8M2G2ML4MG8MG25MG101MG14MG11MG4MG16MG15MG17MG13MG14MG17MG20MG2ML3MG14M2G97ML29ML58MG44MG54MG48ML20MG11MG7MG13MG33MG10MG4ML22MG9ML23ML6MG15MR7M,2387MG1238MG177M</interp>
+<interp type="alignment" select="0">52MG15MG2ML17MG2ML3MG19MG20MG8MG2ML5MG11MG17MG40MGMR14MG7MG7MG8MG8MG2ML23ML7MG6MG29MG11MR70MG26MG4MR64M2G29MG14MR11ML6MG22MG46MG29MG83MG52M2G85MG48ML16MG48MG7MR25MG21MG12MG114MG68MG23ML31MG22M2G59MG40ML46MG21MG9MG58MG13ML74MG31MG11MG6MG6MG32ML16ML14MG31M2G5MG9M2G20MG4M2G32ML25ML26ML4ML24MG28MG169MG9MG17ML19MG8MG12ML14MG9MG12MG77ML78MG26M2G40ML57MG66MG111MR39MG37MG15MG29MGMR11MG19MG2ML3MG8M2G2ML4MG8MG25MG101MG14MG11MG4MG16MG15MG17MG13MG14MG17MG20MG2ML3MG14M2G97ML29ML58MG44MG54MG48ML20MG11MG7MG13MG33MG10MG4ML22MG9ML23ML6MG15MR7M,2386MG1238MG177M</interp>
 <entry>
 <form>maṇ</form>
 <def>earth</def>
@@ -1057,7 +1057,7 @@
 </entry>
 <entry>
 <form>aṉṉa</form>
-<def>like//</def>
+<def>like</def>
 </entry>
 <entry>
 <form><c type="glide">v</c>iṉam</form>
@@ -1260,9 +1260,16 @@
 </gramGrp>
 </entry>
 <entry>
-<form>acai-varūum</form>
-<def>starting-to-move</def>
-<form type="sandhi">acaivarūuñ</form>
+<form>acai</form>
+<def>move</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>varūum</form>
+<def>coming</def>
+<form type="sandhi">varūuñ</form>
 <gramGrp>
   <gram type="role">peyareccam</gram>
   <gram type="role">imperfective aspect</gram>
@@ -2056,7 +2063,6 @@
 <entry>
 <form><c type="glide">y</c>āṇṭu<c type="geminated">p</c></form>
 <def>there</def>
-<form type="sandhi"><c type="glide">y</c>aṇṭu<c type="geminated">p</c></form>
 </entry>
 <entry>
 <form>paṉi</form>
@@ -2684,6 +2690,7 @@
 <entry>
 <form>vēḷ</form>
 <def>Murukaṉ</def>
+<form type="sandhi">vēṭ</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -2691,6 +2698,7 @@
 <entry>
 <form>taṇ</form>
 <def>cool</def>
+<form type="sandhi">ṭaṇ</form>
 <gramGrp>
   <gram type="role">adjective</gram>
 </gramGrp>
@@ -2995,9 +3003,10 @@
 </entry>
 <entry>
 <form>cūḷēl</form>
-<def>vow-not(2.|imp.|neg.)</def>
+<def>vow-not</def>
 <gramGrp>
   <gram type="role">second person</gram>
+  <gram type="role">imperative</gram>
   <gram type="role">negative</gram>
 </gramGrp>
 </entry>
@@ -3041,9 +3050,10 @@
 </entry>
 <entry>
 <form>kūṟēl</form>
-<def>speak-not(2.|imp.|neg.)</def>
+<def>speak-not</def>
 <gramGrp>
   <gram type="role">second person</gram>
+  <gram type="role">imperative</gram>
   <gram type="role">negative</gram>
 </gramGrp>
 </entry>
@@ -3121,8 +3131,9 @@
 </entry>
 <entry>
 <form>kūṟal</form>
-<def>don’t-speak(imp.neg.)</def>
+<def>don’t-speak</def>
 <gramGrp>
+  <gram type="role">imperative</gram>
   <gram type="role">negative</gram>
 </gramGrp>
 </entry>
@@ -3390,7 +3401,6 @@
 <entry>
 <form>ēykkum</form>
 <def>resembling</def>
-<form type="sandhi">eykkum</form>
 <gramGrp>
   <gram type="role">peyareccam</gram>
   <gram type="role">imperfective aspect</gram>
