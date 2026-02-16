@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0" n="Ed">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="Ed">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -5543,10 +5546,11 @@
 <entry>
 <form>maṉṉuka-mā</form>
 <def>may-be-permanent</def>
-<form type="sandhi">maṉṉukamā</form>
+<form type="simple">maṉṉuka</form>
 <gramGrp>
   <gram type="role">optative</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">mā</m></gramGrp>
 </entry>
 <entry>
 <form>taṇ</form>
