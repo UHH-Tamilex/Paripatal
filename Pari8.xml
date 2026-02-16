@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" n="Ed">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0" n="Ed">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -181,7 +178,7 @@
 <l>taṇparaṅ kuṉṟa niṉakku</l>
 
       </lg>
-      <lg xml:lang="en"></lg>
+      <lg xml:lang="en"/>
       </div>
   </body>
 </text>
@@ -4637,11 +4634,11 @@
 </gramGrp>
 </entry>
 <entry>
-<form>uṟuk<c type="elided">u</c></form>
+<form>uṟuk<c type="uncertain">a</c></form>
 <def>may-have</def>
 <form type="sandhi">uṟuk</form>
 <gramGrp>
-  <gram type="role">infinitive</gram>
+  <gram type="role">optative</gram>
 </gramGrp>
 </entry>
 <entry>
