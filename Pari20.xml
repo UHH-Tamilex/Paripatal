@@ -16,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -146,7 +146,8 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#Pari20"><interp type="alignment" select="0">38MG6MG60MG42MG105ML20ML18ML47MG20ML11MG35ML13ML60MG11ML23MG29MG26MG29MG22MG3MG3ML25MG3ML24MG3ML27MG28MG12MG2MG8MG22ML17MG130M2G7MG3ML12MG55MG28MG151MG13MG10ML45ML41ML41MGMG10MG67MG23ML190ML14MG15ML18M2G2ML17MGMG7M2G24MG4M2G57MG30MG61MG22MG11MGMG34M2GMR7M2G16MG36MG5MG44MG9MG16ML132M4G3ML54MG46MG3M2G15M2G49M2G41MG52ML2MG14MG23MG57MG11MG10MG34MG34MG12MR22MG3MG5MG38MG4ML41MG34MG9MG68MG49ML46MG24M2G69MG21MR16ML45MGMR4M2G8M2G7MG5MG9MG28MG29MG7M,916MG344MG148MG36MG649MG175MG148MG127MG359MG52MG300MG119MG</interp>
+<standOff type="wordsplit" corresp="#Pari20">
+<interp type="alignment" select="0">38MG6MG60MG42MG105ML20ML18ML47MG20ML11MG35ML13ML60MG11ML23MG29MG26MG29MG22MG3MG3ML25MG3ML24MG3ML27MG28MG12MG2MG8MG22ML17MG130M2G7MG3ML12MG55MG28MG151MG13MG10ML45ML41ML41MGMG10MG67MG23ML190ML14MG15ML18M2G2ML17MGMG7M2G24MG4M2G57MG30MG61MG22MG11MGMG34M2GMR7M2G16MG36MG5MG44MG9MG16ML132M3G3ML54MG46MG3M2G15M2G49M2G41MG52ML2MG14MG23MG57MG11MG10MG34MG34MG12MR22MG3MG5MG38MG4ML41MG34MG9MG68MG49ML46MG24M2G69MG21MR16ML45MGMR4M2G8M2G7MG5MG9MG28MG29MG7M,916MG344MG148MG36MG649MG175MG147MG127MG359MG52MG300MG119MG</interp>
 <entry>
 <form>kaṭal</form>
 <def>sea</def>
@@ -1974,7 +1975,7 @@
 <entry>
 <form>maṇal</form>
 <def>sand</def>
-<form type="sandhi">maṇaṇ</form>
+<form type="sandhi">maṇaṉ</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -1982,7 +1983,7 @@
 <entry>
 <form>nēṭiṉar</form>
 <def>they searched</def>
-<form type="sandhi">ṇēṭiṉar</form>
+<form type="sandhi">ṉēṭiṉar</form>
 <gramGrp>
   <gram type="role">muṟṟeccam</gram>
   <gram type="role">perfective aspect</gram>
@@ -2435,7 +2436,7 @@
 </entry>
 <entry>
 <form>cāṭi</form>
-<def>shaker</def>
+<def>furrow</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -3289,7 +3290,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form>a...........</form>
+<form>a..........</form>
 <form type="sandhi">a……………..</form>
 </entry>
 <entry>
@@ -4763,5 +4764,6 @@
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 </TEI>
