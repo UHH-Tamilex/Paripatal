@@ -868,11 +868,11 @@
 </entry>
 <entry>
 <form>katiyiṟṟ<c type="elided">u</c>-ē</form>
-<def>quality-it(pron.n|n.sg.)</def>
+<def>quality-it</def>
 <form type="simple">katiyiṟṟu</form>
 <form type="sandhi">katiyiṟṟ</form>
 <gramGrp>
-  <gram type="role">pronoun</gram>
+  <gram type="role">pronominalised noun</gram>
   <gram type="role">neuter singular</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
@@ -937,7 +937,7 @@
 </entry>
 <entry>
 <form>matam</form>
-<def>musth</def>
+<def>must</def>
 <form type="sandhi">matan</form>
 <gramGrp>
   <gram type="role">noun</gram>
