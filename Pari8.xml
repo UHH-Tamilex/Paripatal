@@ -868,11 +868,11 @@
 </entry>
 <entry>
 <form>katiyiṟṟ<c type="elided">u</c>-ē</form>
-<def>quality-it</def>
+<def>quality-it(pron.n|n.sg.)</def>
 <form type="simple">katiyiṟṟu</form>
 <form type="sandhi">katiyiṟṟ</form>
 <gramGrp>
-  <gram type="role">pronominalised noun</gram>
+  <gram type="role">pronoun</gram>
   <gram type="role">neuter singular</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
@@ -937,7 +937,7 @@
 </entry>
 <entry>
 <form>matam</form>
-<def>must</def>
+<def>musth</def>
 <form type="sandhi">matan</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -5591,7 +5591,10 @@
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
-</interp><listApp>
+</interp>
+<!--Warnings
+Ed doesn't match alignment.
+--><listApp>
   <app loc="305,316">
     <lem wit="#EC1">kāraṇa mākap</lem>
     <rdg wit="#EC1-p1">kāraṇam</rdg>
@@ -5621,15 +5624,9 @@
     <lem wit="#EC1">maṉṟala</lem>
     <rdg wit="#EC1-p1">maṉṟaṉ</rdg>
   </app>
-  <app loc="774,779">
-    <lem wit="#EC1">lacai</lem>
-    <rdg wit="#EC1-p1">lacaivu</rdg>
-    <rdg wit="#EC1-p2">lacaivarū</rdg>
-  </app>
   <app loc="779,801">
     <lem wit="#EC1">varūuñ cemmaṟṟē yammaniṉ</lem>
-    <rdg wit="#EC1-p1">n takaimaittē varūuñ</rdg>
-    <rdg wit="#EC1-p2">uñ cemmaṟṟē yammaniṉ</rdg>
+    <rdg wit="#EC1-p1">vun takaimaittē varūuñ</rdg>
   </app>
   <app loc="834,844">
     <lem wit="#EC1">voḷirvēlōy</lem>
