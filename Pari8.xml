@@ -2323,13 +2323,22 @@
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
-<entry>
+<superEntry type="ambiguous">
+<entry><entry>
 <form>col</form>
-<def>word(r.n.)/speak</def>
+<def>word</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry></entry>
+<entry><entry>
+<form>col</form>
+<def>speak</def>
 <gramGrp>
   <gram type="role">imperative</gram>
 </gramGrp>
-</entry>
+</entry></entry>
+</superEntry>
 <entry>
 <form>vēṟu</form>
 <def>different</def>
