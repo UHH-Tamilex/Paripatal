@@ -89,7 +89,7 @@
    <graphic url="https://iiif.archive.org/iiif/UVSL-1077/manifest.json"/></facsimile>
   <text corresp="#C2" xml:lang="ta">
     <body>
-    
+      <lg xml:id="Pari20"> 
 <l><pb facs="142"/><lb n="5" />kaṭalkuṟai paṭuttanīr kalkuṟai paṭaveṟin</l>
 <l>tuṭalē ṟurumiṉa mārppa malai<metamark function="line-filler">௦</metamark>mālai</l>
 <l>muṟṟupu muṟṟupu veyti mutirmukil</l>
