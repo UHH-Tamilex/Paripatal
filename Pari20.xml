@@ -33,6 +33,10 @@
 <witness xml:id="C1" source="witnesses/C1_UVSL_247.xml">
 <abbr>C1</abbr>
 <expan><title xml:lang="ta">Paripāṭal</title></expan>
+</witness>
+<witness xml:id="C1" source="witnesses/C1_UVSL_247.xml">
+<abbr>C1</abbr>
+<expan><title xml:lang="ta">Paripāṭal</title></expan>
 </witness></listWit></sourceDesc>
     </fileDesc>
     <revisionDesc><change/></revisionDesc>
