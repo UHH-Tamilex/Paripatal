@@ -33,6 +33,10 @@
 <witness xml:id="C1" source="witnesses/C1_UVSL_247.xml">
 <abbr>C1</abbr>
 <expan><title xml:lang="ta">Paripāṭal</title></expan>
+</witness>
+<witness xml:id="C1" source="witnesses/C1_UVSL_247.xml">
+<abbr>C1</abbr>
+<expan><title xml:lang="ta">Paripāṭal</title></expan>
 </witness></listWit></sourceDesc>
     </fileDesc>
     <revisionDesc><change/></revisionDesc>
@@ -319,7 +323,7 @@
 </entry>
 <entry>
 <form>pōḻnta</form>
-<def>crossed</def>
+<def>overcome</def>
 <gramGrp>
   <gram type="role">peyareccam</gram>
   <gram type="role">perfective aspect</gram>
@@ -370,7 +374,7 @@
 </entry>
 <entry>
 <form>aḻi</form>
-<def>perish</def>
+<def>dwindle</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
@@ -423,7 +427,7 @@
 </entry>
 <entry>
 <form>paṭintu</form>
-<def>having settled</def>
+<def>having lowered itself</def>
 <gramGrp>
   <gram type="role">absolutive</gram>
 </gramGrp>
@@ -750,8 +754,9 @@
 </entry>
 <entry>
 <form>mītu</form>
-<def>height</def>
+<def>top</def>
 <gramGrp>
+  <gram type="role">postposition</gram>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
@@ -849,6 +854,10 @@
 <form>koṇṭaṉṟ<c type="elided">u</c></form>
 <def>it-took</def>
 <form type="sandhi">koṇṭaṉṟ</form>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>uyar</form>
@@ -947,7 +956,7 @@
 </entry>
 <entry>
 <form>vaṅka<c type="geminated">p</c></form>
-<def>pull</def>
+<def>cart</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
