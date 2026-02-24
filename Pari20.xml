@@ -936,7 +936,7 @@
 </entry>
 <entry>
 <form>vaṅkam</form>
-<def>vehicle</def>
+<def>cart</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -2185,9 +2185,9 @@
 </entry>
 <entry>
 <form><c type="glide">y</c>amar</form>
-<def>be-suited</def>
+<def>battle</def>
 <gramGrp>
-  <gram type="role">verbal root</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -2537,12 +2537,11 @@
 </entry>
 <entry>
 <form>takaitt<c type="elided">u</c>-um</form>
-<def>fitting-it</def>
+<def>stopped</def>
 <form type="simple">takaittu</form>
 <form type="sandhi">takaitt</form>
 <gramGrp>
-  <gram type="role">pronominalised noun</gram>
-  <gram type="role">neuter singular</gram>
+  <gram type="role">absolutive</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
@@ -2592,7 +2591,7 @@
 <superEntry type="ambiguous">
 <entry><entry>
 <form>pāṇiyil</form>
-<def>water</def>
+<def>hand</def>
 <gramGrp>
   <gram type="role">locative</gram>
 </gramGrp>
@@ -2600,6 +2599,13 @@
 <entry><entry>
 <form>pāṇiyil</form>
 <def>occasion</def>
+<gramGrp>
+  <gram type="role">locative</gram>
+</gramGrp>
+</entry></entry>
+<entry><entry>
+<form>pāṇiyil</form>
+<def>melody</def>
 <gramGrp>
   <gram type="role">locative</gram>
 </gramGrp>
