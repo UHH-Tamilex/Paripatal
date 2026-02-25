@@ -1503,7 +1503,7 @@
 </entry>
 <entry>
 <form>cērntu</form>
-<def>connected</def>
+<def>joined</def>
 <gramGrp>
   <gram type="role">absolutive</gram>
 </gramGrp>
@@ -1517,6 +1517,7 @@
 <def>naïve-they</def>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
+  <gram type="role">honorific</gram>
   <gram type="role">third person</gram>
 </gramGrp>
 </entry>
@@ -1565,8 +1566,9 @@
 </entry>
 <entry>
 <form>maintar</form>
-<def>soldier</def>
+<def>men</def>
 <gramGrp>
+  <gram type="role">honorific</gram>
   <gram type="role">third person</gram>
 </gramGrp>
 </entry>
@@ -1623,7 +1625,7 @@
 </entry>
 <entry>
 <form>āram</form>
-<def>sandal</def>
+<def>string</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -1646,6 +1648,9 @@
 <entry>
 <form>kaṅkai</form>
 <def>Gangā</def>
+<gramGrp>
+  <gram type="role">proper name</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>nantiya</form>
@@ -1683,7 +1688,7 @@
 </entry>
 <entry>
 <form>e<c type="geminated">ñ</c></form>
-<def>what</def>
+<def>what-</def>
 </entry>
 <entry>
 <form>ñāṉṟ<c type="elided">u</c>-um</form>
@@ -1697,7 +1702,7 @@
 </entry>
 <entry>
 <form>tēṉ</form>
-<def>honey</def>
+<def>bee</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -1755,6 +1760,11 @@
 </entry>
 <entry>
 <form>mūṉṟiṉum</form>
+<def>three-it</def>
+<gramGrp>
+  <gram type="role">comparative</gram>
+  <gram type="role">oblique</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>oḷ</form>
@@ -1853,7 +1863,7 @@
 </entry>
 <entry>
 <form>vāy</form>
-<def>truth</def>
+<def>mouth</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -1867,8 +1877,12 @@
 </entry>
 <entry>
 <form>kaviṉoṭ<c type="elided">u</c>-um</form>
+<def>beauty</def>
 <form type="simple">kaviṉoṭu</form>
 <form type="sandhi">kaviṉoṭ</form>
+<gramGrp>
+  <gram type="role">sociative</gram>
+</gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
@@ -1898,6 +1912,9 @@
 <form>vayiṉ</form>
 <def>side</def>
 <form type="sandhi">vayiṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>tēṉ</form>
@@ -1908,7 +1925,7 @@
 </entry>
 <entry>
 <form>cōra<c type="geminated">p</c></form>
-<def>slip-down</def>
+<def>trickle-down</def>
 <gramGrp>
   <gram type="role">infinitive</gram>
 </gramGrp>
@@ -1950,6 +1967,7 @@
 <def>dance-they</def>
 <gramGrp>
   <gram type="role">participial noun</gram>
+  <gram type="role">honorific</gram>
   <gram type="role">third person</gram>
   <gram type="role">imperfective aspect</gram>
 </gramGrp>
@@ -1963,7 +1981,7 @@
 </entry>
 <entry>
 <form>kuḻaintu</form>
-<def>be soft</def>
+<def>been soft</def>
 <gramGrp>
   <gram type="role">absolutive</gram>
 </gramGrp>
@@ -1984,6 +2002,10 @@
 </entry>
 <entry>
 <form>māṉmata</form>
+<def>musk</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>cānt<c type="elided">u</c></form>
