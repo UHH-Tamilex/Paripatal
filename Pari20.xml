@@ -157,7 +157,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#Pari20">
-<interp type="alignment" select="0">38MG6MG60MG42MG105ML20ML18ML47MG20ML11MG35ML13ML60MG11ML23MG29MG26MG8ML14ML7MG8ML14MG3MG3ML25MG3ML24MG3ML27MG28MG12MG2MG8MG22ML17MG130M2G7MG3ML12MG55MG28MG151MG13MG10ML45ML41ML52MG67MG23ML190ML14MG15ML18M2G2ML25M2G24MG4M2G57MG30MG61MG22MG46M2GMR7M2G16MG36MG5MG44MG9MG16ML135ML54MG46MG3M2G15M2G49M2G41MG52ML2MG14MG23MG10MG46MG11MG10MG34MG34MG12MR22MG3MG5MG38MG4ML41MG34MG9MG68MG49ML46MG24M2G69MG21MR16ML45MGMR4M2G8M2G7MG5MG9MG28MG29MG7M,919MG344MG146MG36MG645MG175MG6M2G136MG127MG359MG52MG300MG119MG</interp>
+<interp type="alignment" select="0">38MG6MG60MG42MG105ML20ML18ML47MG20ML11MG35ML13ML60MG11ML23MG29MG26MG8ML14ML7MG8ML14MG3MG3ML25MG3ML24MG3ML27MG28MG12MG2MG8MG22ML17MG130M2G7MG3ML12MG55MG28MG151MG13MG10ML45ML27MG14ML52MG67MG23ML190ML14MG15ML18M2G2ML25M2G24MG4M2G57MG30MG61MG22MG46M2GMR7M2G16MG36MG5MG44MG9MG16ML135ML54MG46MG3M2G15M2G49M2G41MG52ML2MG14MG23MG10MG46MG11MG10MG34MG34MG12MR22MG3MG5MG38MG4ML41MG34MG9MG68MG49ML46MG24M2G69MG21MR16ML45MGMR4M2G8M2G7MG5MG9MG28MG29MG7M,919MG344MG147MG36MG645MG175MG6M2G136MG127MG359MG52MG300MG119MG</interp>
 <entry>
 <form>kaṭal</form>
 <def>sea</def>
@@ -936,7 +936,7 @@
 </entry>
 <entry>
 <form>vaṅkam</form>
-<def>vehicle</def>
+<def>cart</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -1964,18 +1964,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form>eṉa<c type="geminated">t</c></form>
+<form>eṉa<c type="geminated">t</c>-teyya</form>
 <def>say</def>
+<form type="simple">eṉa</form>
+<form type="sandhi">eṉa<c type="geminated">t</c></form>
 <gramGrp>
   <gram type="role">infinitive</gram>
 </gramGrp>
-</entry>
-<entry>
-<form>teyya</form>
-<def>wane</def>
-<gramGrp>
-  <gram type="role">infinitive</gram>
-</gramGrp>
+<gramGrp type="particle"><m type="enclitic">teyya</m></gramGrp>
 </entry>
 <entry>
 <form>neṟi</form>
@@ -2185,9 +2181,9 @@
 </entry>
 <entry>
 <form><c type="glide">y</c>amar</form>
-<def>be-suited</def>
+<def>battle</def>
 <gramGrp>
-  <gram type="role">verbal root</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -2537,12 +2533,11 @@
 </entry>
 <entry>
 <form>takaitt<c type="elided">u</c>-um</form>
-<def>fitting-it</def>
+<def>stopped</def>
 <form type="simple">takaittu</form>
 <form type="sandhi">takaitt</form>
 <gramGrp>
-  <gram type="role">pronominalised noun</gram>
-  <gram type="role">neuter singular</gram>
+  <gram type="role">absolutive</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
@@ -2592,7 +2587,7 @@
 <superEntry type="ambiguous">
 <entry><entry>
 <form>pāṇiyil</form>
-<def>water</def>
+<def>hand</def>
 <gramGrp>
   <gram type="role">locative</gram>
 </gramGrp>
@@ -2600,6 +2595,13 @@
 <entry><entry>
 <form>pāṇiyil</form>
 <def>occasion</def>
+<gramGrp>
+  <gram type="role">locative</gram>
+</gramGrp>
+</entry></entry>
+<entry><entry>
+<form>pāṇiyil</form>
+<def>melody</def>
 <gramGrp>
   <gram type="role">locative</gram>
 </gramGrp>
@@ -2742,7 +2744,7 @@
 </entry>
 <entry>
 <form>vaṭitt<c type="elided">u</c></form>
-<def>drained</def>
+<def>tamed</def>
 <form type="sandhi">vaṭitt</form>
 <gramGrp>
   <gram type="role">absolutive</gram>
@@ -3063,9 +3065,9 @@
 </entry>
 <entry>
 <form>tīrum</form>
-<def>ends</def>
+<def>ending</def>
 <gramGrp>
-  <gram type="role">habitual future</gram>
+  <gram type="role">peyareccam</gram>
 </gramGrp>
 </entry>
 <entry>
