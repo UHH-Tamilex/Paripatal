@@ -72,7 +72,7 @@
 <l>ceṉṉīr vīvayiṟ tēṉcōrap paṉṉī</l>
 <l>raṭuttaṭut tāṭuvār pullak kuḻaintu</l>
 <l>vaṭupaṭu māṉmata cāntā rakalattā</l>
-<l>ṉeṭuttavē ‡ yekki nūkkuyarpu tākkat</l>
+<l>ṉeṭuttavē yekki nūkkuyarpu tākkat</l>
 <l>toṭuttatēṉ cōrum varaipōlun tōṟṟaṅ</l>
 <l>koṭitērāṉ vaiyaik kiyalpu;</l>
 <l>varaiyārkkum puyalkarai</l>
@@ -90,7 +90,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#Pari16"><interp type="alignment" select="0">5MG48M2G8M2GMR15ML7M2G9M2G11MG2ML6MG11MG28MR125MG5MG12MG26MG5MG96MG9MG34MR13MG7MG8MG14MG10MG18MG8MG9MG146M2G41MG3MG73M2G9MG10MG3MG9MG65M2G14ML10MG18M2G36MG153MG11M2G28MG7MG28MG32MG17M2G34MG5MG39MG29MG60MG112ML9MG2MR9M2G7MG13MG6MG25ML35M,8MG131MG206MG96MG161MG32MG373MG27MG185MG271MG88MG131M</interp>
+<standOff type="wordsplit" corresp="#Pari16"><interp type="alignment" select="0">5MG48M2G8M2GMR15ML7M2G9M2G11MG2ML6MG11MG28MR125MG5MG12MG26MG5MG96MG9MG34MR13MG7MG8MG14MG10MG18MG8MG9MG146M2G41MG3MG73M2G9MG10MG3MG9MG65M2G14ML10MG18M2G36MG153MG11M2G28MG7MG28MG32MG17M2G34MG5MG39MG28MG60MG112ML9MG2MR9M2G7MG13MG6MG25ML35M,8MG131MG206MG96MG161MG32MG373MG27MG185MG270MG88MG131M</interp>
 <entry>
 <form>karai-<c type="glide">y</c>ē</form>
 <def>shore</def>
@@ -2040,7 +2040,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form>vē<gap quantity="1" unit="character" reason="lost"/></form>
+<form>vē</form>
 </entry>
 <entry>
 <form><c type="glide">y</c>ekki</form>
