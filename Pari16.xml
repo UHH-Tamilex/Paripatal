@@ -6,8 +6,8 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> <num></num>.
-            <persName xml:lang="ta"></persName>
+            <title xml:lang="ta"/> <num/>.
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -16,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -26,7 +26,6 @@
   </teiHeader>
 <text xml:lang="ta" type="edition">
   <body>
-    <div rend="parallel">
       <lg xml:id="Pari16">
 <l>karaiyē, kaivaṇ ṭōṉṟa līkai pōṉmeṉa</l>
 <l>maipaṭu cilampiṟ kaṟiyoṭuñ cāntoṭu</l>
@@ -45,13 +44,13 @@
 <l>naranta naṟumalar naṉkaḷik kummē</l>
 <l>karaipoḻuku tīmpuṉaṟ ketirvirun tayarvapōṟ</l>
 <l>kāṉalaṅ kāvuṅ kayamun turuttiyuntēṉ</l>
-<l>ṟēṉūṇṭu pāṭat ticaitticaip pūnalam</l>
+<l>ṟēṉuṇṭu pāṭat ticaitticaip pūnalam</l>
 <l>pūttaṉṟu vaiyai varavu;</l>
 <l>curuṅkaiyi ṉāyattār cuṟṟu meṟintu</l>
 <l>kurumpai mulaipaṭṭa pūnīr tuṭaiyāḷ</l>
 <l>peruntakai mīḷi varuvāṉai kaṇṭē</l>
 <l>yiruntukiṟ ṟāṉaiyi ṉoṟṟi poruntalai</l>
-<l>pūttaṉa ḷīṅkeṉap poyyāṟṟāṟ tōḻiyar</l>
+<l>pūttaṉa ṇīṅkeṉap poyyāṟṟāṟ tōḻiyar</l>
 <l>tōṟṟamō rotta malarkamaḻ taṇcāntiṉ</l>
 <l>nāṟṟattiṟ pōṟṟi nakaiyoṭum pōttan</l>
 <l>tiruṅkaṭaṟ kūṅkivarum yāṟeṉat taṅkāṉ</l>
@@ -61,13 +60,13 @@
 <l>vāyttaṉṟāl vaiyai varavu;</l>
 <l>malaiyi ṉiḻiyaruvi malkiṇarc cārccārk</l>
 <l>karaimarañ cērntu kaviṉi maṭavār</l>
-<l>naṉaicēr katuppiṉuṭ taṇpōtu maintar</l>
+<l>naṉaicēr katuppiṉuṭ ṭaṇpōtu maintar</l>
 <l>malarmārpiṟ cōrnta malaritaḻ tāay</l>
 <l>mīṉāram pūtta viyaṉkaṅkai nantiya</l>
 <l>vāṉam peyarnta maruṅkotta leññāṉṟun</l>
-<l>tēṉimir vaiyaikku iyalpu;</l>
+<l>tēṉimir vaiyaik kiyalpu;</l>
 <l>kaḷḷē puṉalē pulaviyim mūṉṟiṉu</l>
-<l>moḷḷoli ceytā voḷikiḷaruṇ kaṭkeṇṭai</l>
+<l>moḷḷoḷi ceytā voḷikiḷaruṇ kaṭkeṇṭai</l>
 <l>palvari vaṇṭiṉam vāycūḻ kaviṉoṭuñ</l>
 <l>ceṉṉīr vīvayiṟ tēṉcōrap paṉṉī</l>
 <l>raṭuttaṭut tāṭuvār pullak kuḻaintu</l>
@@ -79,18 +78,15 @@
 <l>tiraiyārkkumit tīmpuṉal</l>
 <l>kaṇṇiyar tārar kamaḻnaṟuṅ kōtaiyar</l>
 <l>paṇṇiya vīkaip payaṉkoḷvā ṉāṭalā</l>
-<l>ṉāṇnā ḷuṟaiyu naṟuñcāntuṅ kōtaiyum</l>
+<l>ṉāṇā ḷuṟaiyu naṟuñcāntuṅ kōtaiyum</l>
 <l>pūtta pukaiyu maviyum pularāmai</l>
 <l>maṟāaṟka vāṉa malitantu nīttam</l>
 <l>vaṟāaṟka vaiyai niṉakku</l>
       </lg>
-      <lg xml:lang="en">
-<!--put your translation here-->
-      </lg>
-    </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#Pari16"><interp type="alignment" select="0">5MG48M2G8M2GMR15ML7M2G9M2G11MG2ML6MG11MG28MR125MG5MG12MG26MG5MG96MG9MG34MR13MG7MG8MG14MG10MG18MG8MG9MG146M2G41MG3MG73M2G9MG10MG3MG9MG65M2G14ML10MG18M2G36MG153MG11M2G28MG7MG28MG32MG17M2G34MG5MG39MG28MG60MG112ML9MG2MR9M2G7MG13MG6MG25ML35M,8MG131MG206MG96MG161MG32MG373MG27MG185MG270MG88MG131M</interp>
+<standOff type="wordsplit" corresp="#Pari16">
+<interp type="alignment" select="0">5MG48M2G8M2GMR15ML7M2G9M2G11MG2ML6MG11MG28MR125MG5MG12MG26MG5MG96MG9MG34MR13MG7MG8MG14MG10MG18MG8MG9MG146M2G41ML3MG73M2G9MG10MG3MG9MG65MG14ML10MG18M2G36MG153MG11M2G17MG10MG7MG28MG32MG17M2G34MG5MG39MG28MG60MG112ML2ML6MG2MR9M2G7MG13MG6MG25ML35M,8MG131MG206MG96MG194MG372MG213MG270MG220M</interp>
 <entry>
 <form>karai-<c type="glide">y</c>ē</form>
 <def>shore</def>
@@ -895,7 +891,6 @@
 <entry>
 <form>uṇṭu</form>
 <def>eaten</def>
-<form type="sandhi">ūṇṭu</form>
 <gramGrp>
   <gram type="role">absolutive</gram>
 </gramGrp>
@@ -908,16 +903,15 @@
 </gramGrp>
 </entry>
 <entry>
-<form>ticai</form>
+<form>ticai<c type="geminated">t</c></form>
 <def>direction</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>ticai<c type="geminated">ai</c></form>
+<form>ticai<c type="geminated">p</c></form>
 <def>direction</def>
-<form type="sandhi">ttic<c type="geminated">ai</c>p</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -1105,6 +1099,7 @@
 <entry>
 <form>pūttaṉaḷ</form>
 <def>flowered-she</def>
+<form type="sandhi">pūttaṉaṇ</form>
 <gramGrp>
   <gram type="role">participial noun</gram>
   <gram type="role">feminine singular</gram>
@@ -1114,7 +1109,7 @@
 <entry>
 <form>nīṅk<c type="elided">u</c></form>
 <def>leave</def>
-<form type="sandhi">īṅk</form>
+<form type="sandhi">ṇīṅk</form>
 <gramGrp>
   <gram type="role">imperative</gram>
 </gramGrp>
@@ -1362,7 +1357,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide"></c>iṉiyar</form>
+<form>iṉiyar</form>
 <def>pleasing-they</def>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
@@ -1465,16 +1460,15 @@
 </gramGrp>
 </entry>
 <entry>
-<form>iṇar</form>
+<form>iṇar<c type="geminated">c</c></form>
 <def>cluster</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>cār<c type="geminated">r</c></form>
+<form>cār<c type="geminated">c</c></form>
 <def>side</def>
-<form type="sandhi">ccā<c type="geminated">r</c>c</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -1553,6 +1547,7 @@
 <entry>
 <form>taṇ</form>
 <def>cool</def>
+<form type="sandhi">ṭaṇ</form>
 <gramGrp>
   <gram type="role">adjective</gram>
 </gramGrp>
@@ -1717,7 +1712,7 @@
 <entry>
 <form>vaiyaikk<c type="elided">u</c></form>
 <def>Vaiyai</def>
-<form type="sandhi">vaiyaikku</form>
+<form type="sandhi">vaiyaikk</form>
 <gramGrp>
   <gram type="role">dative</gram>
 </gramGrp>
@@ -1776,7 +1771,6 @@
 <entry>
 <form><c type="geminated">ḷ</c>oḷi</form>
 <def>brightness</def>
-<form type="sandhi"><c type="geminated">ḷ</c>oli</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -2258,7 +2252,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">v</c>īkai</form>
+<form><c type="glide">v</c>īkai<c type="geminated">p</c></form>
 <def>gift</def>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -2267,7 +2261,6 @@
 <entry>
 <form>payaṉ</form>
 <def>gain</def>
-<form type="sandhi">ppayaṉ</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -2300,6 +2293,7 @@
 <entry>
 <form>nāḷ</form>
 <def>day</def>
+<form type="sandhi">ṇāḷ</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -2433,5 +2427,6 @@
   <gram type="role">dative</gram>
   <gram type="role">second person</gram>
 </gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 </TEI>
