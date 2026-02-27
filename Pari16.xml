@@ -2036,10 +2036,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form>vē</form>
+<form>vēy</form>
+<def>bamboo</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>ekki</form>
+<form>ekki</form>
 <def>gone up</def>
 <gramGrp>
   <gram type="role">absolutive</gram>
