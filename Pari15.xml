@@ -102,7 +102,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#Pari15">
-<interp type="alignment" select="0">4MG31MG46ML25MG35MG8MG9MG6MG25MG24MG8MG9MG21MG38MG9MG6MG12MG25MG7MG6MG13MG8MG6MG16MG29ML8MG13MG12ML12MG10M2G35ML44MG77MG5MG14MG168MG30MG9MG39MR5ML45MG49M2G29MGMG8MG19MG23MG115ML31MG73MG24MG9MG12MG43M2G26M2G105M2G99MG9MG81MG89MG35MG27MG6MG4MG11MG14MG37M2GM,166MG177MG67MG1592M</interp>
+<interp type="alignment" select="0">4MG31MG46ML25MG35MG8MG9MGMR4MG25MG4ML19MG8MG9MG21MG4ML33MG9MG6MG12MG25MG7MG6MG13MG8MG6MG16MG29ML8MG9MR3MG12ML23M2G35ML122MG5MG14MG168MG30MG9MG39MR5ML95M2G29MG10MG19MG23MG115ML31MG73MG24MG9MG12MG43M2G26M2G105M2G99MG91MG153MG6MG16MG14MG37M2GM,344MG67MG1592M</interp>
 <entry>
 <form>pula<c type="uncertain">m</c></form>
 <def>wisdom</def>
@@ -307,13 +307,14 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
-<form>palaviṉ-u</form>
+<form>palaviṉ-um</form>
 <def>jackfruit tree</def>
-<form type="sandhi">palaviṉu</form>
+<form type="simple">palaviṉ</form>
 <gramGrp>
   <gram type="role">oblique</gram>
   <gram type="role">noun</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <superEntry type="ambiguous">
 <entry><entry>
@@ -375,6 +376,7 @@
 <entry>
 <form>niṉṟu</form>
 <def>stood</def>
+<form type="sandhi">ṉiṉṟu</form>
 <gramGrp>
   <gram type="role">absolutive</gram>
 </gramGrp>
@@ -720,6 +722,7 @@
 <entry>
 <form>iruṅkuṉṟam</form>
 <def>Iruṅkuṉṟam</def>
+<form type="sandhi">iruṅkuṉṟan</form>
 <gramGrp>
   <gram type="role">proper name</gram>
 </gramGrp>
@@ -763,7 +766,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide"/>ēṟutal</form>
+<form><c type="glide">y</c>ēṟutal</form>
 <def>rising</def>
 <gramGrp>
   <gram type="role">verbal noun</gram>
@@ -856,7 +859,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide"/>arā</form>
+<form><c type="glide">v</c>arā</form>
 <def>serpent</def>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -1029,6 +1032,7 @@
 </entry>
 <entry>
 <form>iruṅkuṉṟam</form>
+<form type="sandhi">iruṅkuṉṟan</form>
 </entry>
 <entry>
 <form>tām</form>
@@ -1325,7 +1329,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide"/>uṟaḻa</form>
+<form><c type="glide">y</c>uṟaḻa</form>
 <def>be-close</def>
 <gramGrp>
   <gram type="role">infinitive</gram>
@@ -1423,8 +1427,8 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
-<form><c type="glide"/>iruṅkuṉṟ<c type="elided">u</c></form>
-<form type="sandhi"><c type="glide"/>iruṅkuṉṟ</form>
+<form><c type="glide">y</c>iruṅkuṉṟ<c type="elided">u</c></form>
+<form type="sandhi"><c type="glide">y</c>iruṅkuṉṟ</form>
 </entry>
 <entry>
 <form>eṉṉum</form>
@@ -1516,6 +1520,7 @@
 <entry>
 <form>kaṭavuḷ</form>
 <def>god</def>
+<form type="sandhi">kaṭavuṇ</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -2106,7 +2111,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide"/>oḷ</form>
+<form><c type="glide">y</c>oḷ</form>
 <def>bright</def>
 <gramGrp>
   <gram type="role">adjective</gram>
@@ -2276,7 +2281,7 @@
 <form>vāḷavai</form>
 </entry>
 <entry>
-<form><c type="glide"/>eṉavāṅku</form>
+<form><c type="glide">y</c>eṉavāṅku</form>
 <def>say(inf.)-thus</def>
 <gramGrp>
   <gram type="role">conjunction</gram>
@@ -2329,7 +2334,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide"/>itu</form>
+<form><c type="glide">y</c>itu</form>
 <def>this</def>
 </entry>
 <entry>
@@ -2373,8 +2378,8 @@
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide"/>iruṅkuṉṟatt<c type="elided">u</c></form>
-<form type="sandhi"><c type="glide"/>iruṅkuṉṟatt</form>
+<form><c type="glide">y</c>iruṅkuṉṟatt<c type="elided">u</c></form>
+<form type="sandhi"><c type="glide">y</c>iruṅkuṉṟatt</form>
 </entry>
 <entry>
 <form>aṭi</form>
