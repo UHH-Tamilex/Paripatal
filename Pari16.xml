@@ -26,6 +26,7 @@
   </teiHeader>
 <text xml:lang="ta" type="edition">
   <body>
+      <div rend="parallel">
       <lg xml:id="Pari16">
 <l>karaiyē, kaivaṇ ṭōṉṟa līkai pōṉmeṉa</l>
 <l>maipaṭu cilampiṟ kaṟiyoṭuñ cāntoṭu</l>
@@ -149,6 +150,7 @@
 <l>let the sky not change, giving floods in abundance.</l>
 <l>Let you not run dry, Vaiyai.</l>
       </lg>
+      </div>
     </body>
 </text>
 <standOff type="wordsplit" corresp="#Pari16">
