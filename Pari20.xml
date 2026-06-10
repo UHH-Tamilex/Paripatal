@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
 <?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="Ed">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -20,7 +20,20 @@
             </summary>
           </msContents>    
         </msDesc>
-      </sourceDesc>
+      <listWit>
+<witness xml:id="Ed" source="Pari20.xml">
+<abbr>Ed</abbr>
+<expan><title xml:lang="ta">Paripāṭal</title> <num>20</num>.
+            <persName xml:lang="ta">Nallantuvaṉār</persName></expan>
+</witness>
+<witness xml:id="C2" source="witnesses/C2_UVSL_1077.xml">
+<abbr>C2</abbr>
+<expan><title xml:lang="ta">Paripāṭal</title></expan>
+</witness>
+<witness xml:id="C1" source="witnesses/C1_UVSL_247.xml">
+<abbr>C1</abbr>
+<expan><title xml:lang="ta">Paripāṭal</title></expan>
+</witness></listWit></sourceDesc>
     </fileDesc>
     <revisionDesc><change/></revisionDesc>
   </teiHeader>
@@ -112,7 +125,7 @@
 <l>katuvā yavaṉkaḷvaṉ kaḷvinā ṉallē</l>
 <l>ṉeṉavāṅku,</l>
 <l>vacciya māṉē maṟaliṉai māṟṟumakku</l>
-<l>nacciṉā rīpavai nāṭaṟiya numma-~ē</l>
+<l>nacciṉā rīpavai nāṭaṟiya nummavē</l>
 <l>cēkkai yiṉiyārpāṟ celvāṉ maṉaiyāḷāṟ</l>
 <l>kākkai kaṭintoḻukal kūṭumō kūṭā</l>
 <l>takavuṭai maṅkaiyar cāṉṟāṇmai cāṉṟā</l>
@@ -141,13 +154,137 @@
 <l>pūmali vaiyaik kiyalpu.</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
-      </lg>
-    </div>
-  </body>
+<l corresp="1-7">Dashing the water they drained from the sea against the rocks so that they crumble,</l>
+<l>while groups of thunder rumble in furious strokes, raining off completely</l>
+<l>on the mountain chains, the clouds, [their] pregnancy matured,</l>
+<l>today washed, to obtain that the destructive stains become clear, the bloody tusks</l>
+<l>of the handsome elephant with a  flower forehead who had fought [and] crossed the hostile tiger,</l>
+<l>[and], on the way the one with burning rays went, having settled in the sea in the morning</l>
+<l>[and] having united with the montains in the evening, in the night when the earth is asleep,</l>
+<l corresp="8-14">after the rains in the domain of the sky showered, the scent of blossoms in the domain of the trees,</l>
+<l>the scent of blossoms whose domain is nectar, the scent of the rainy season in the domain of the forest</l>
+<l>at the time it had scorching sun light, the scent of ripe fruit dropped from branches,</l>
+<l>the Vaiyai which, having herself enfolded together [these] scents, comes and brings [them],</l>
+<l>while the broad grove on top of her own scent ardently desires</l>
+<l>the hot lingering odour of the river,</l>
+<l>in village after village the drums have taken up the sound. On the high walls,</l>
+<l corresp="15-21">perceiving by the sound that the water rises, arousing [them] from sleep,</l>
+<l>as they yoke to the carts the horses of firm chariots,</l>
+<l>as they mount firm chariots with cart bulls,</l>
+<l>as they prepare the rutting animals that do for strong animals,</l>
+<l>as they, cherishing [their] animals in the depth, mount without mingling,</l>
+<l>as women decorate themselves with men’s garlands,</l>
+<l>as men put on women’s garlands,</l>
+<l corresp="22-28">while those who have adorned themselves, forgetting the order in the desire to be the first,</l>
+<l>dancing in the poytal game in the sand where ornate bees hum,</l>
+<l>nearing the great flood on/up to the necks of horned bulls,</l>
+<l>jostling in the streets with storied buildings, have (~dominate all) the streets,</l>
+<l>of a fitness to desire union/Kūṭal is the fit Vaiyai.</l>
+<l>The fix [all] kinds of incense, good people with flower garlands,</l>
+<l>they fix garlands in [all] manners suitable.</l>
+<l corresp="29-39">As the garlands are many many on those who fixed them in all manners,</l>
+<l>as wreathes, chaplets and belly circlets</l>
+<l>stand as adornments that adorn nature, as, mounting, those who come</l>
+<l>there thus, looking at the adornments all near [them] on the beautiful expanse,</l>
+<l>look at one who suffers, seeing on the body of one who put [them] on the lost bangles,</l> 
+<l>while together with the one who gave the bangles to put along with a [pearl] string,</l>
+<l>thinking “this one is [her] rival”,</l>
+<l>see the face in distress of the robber who gave [them]!</l>
+<l>See the state of her who runs, hides [and] goes to escape</l>
+<l>with as a forest the rows of those with fine-lashed kajal eyes,</l>
+<l>like arrows enraged that have made a fight!</l>
+<l corresp="40-47">That is to say,</l>
+<l>receiving word that those in search [of her] are going on a path in the sand,</l>
+<l>like the sea when taking in the Vaiyai,</l>
+<l>[with] this [girl with] bright forehead, who is [already] close to her who is going to escape,</l>
+<l>she thinks “the strong hostility of [these] women in dense rows, what [is] the connection?”</l>
+<l>[and] confronts [them], the rival woman.</l>
+<l>She stands with [her] mouth silent,</l>
+<l>[she with] close-set teeth, [her] mind troubled.</l>
+<l> <head type="subtitle">wife</head> </l>
+<l corresp="48-54">[Adressing] her who is one among the group of women/ One among the group attendants [adressing] her:</l> 
+<l>“in confrontative passion,</l>
+<l>harlot who has a price, who confuses by combining deception [and] lies,</l>
+<l>one without bond between womanhood [and] commonness, toucher with a mouth</l>
+<l>with twin petals (~lips) that seizes those things that eat up the five senses (of men),</l>
+<l>semblance of the nature of a woman,pourer of a spreading flood of immature fragrant toddy,</l>
+<l>semblance of the nature of a woman, ancient furrow of power</l>
+<l>so that strength subsides in the plough of the field that is the intoxication of passion,</l>
+<l corresp="55-67">applying [your] youthful poud kajal eyes as ropes,</l>
+<l>stopping by touching with [your] broad soft shoulders, sounding the lute</l>
+<l>with innocent fingers for him who puts down [the price], on [your] hands/on [this] occasion touching</l>
+<l>[and] sounding our jewellery, woman common in the domain of pleasure,</l>
+<l>breaking, for the eyes of the women in the Poytal game to see, what [I] have lost,</l>
+<l>giving [it] as a stable this Vaiyai, controlling [it], pounding [it],</l>
+<l>hitting [it] with a whip as a garland – when the bull</l>
+<l>of us who were linked before the assembly does not do [his] job [and] runs,</l>
+<l>to let [him] go is not the duty of the Vēḷāḷar. The chest of her with the [pearl] string,</l>
+<l>form whom we set out [and] give punishment to her own chest (~ the man),</l>
+<l>and your chest, are they ones of equal nature?”, before she had [finished] saying so,</l>
+<l>when she whom they had sought railed, a few women, on the other hand,</l>
+<l>[started] quarrelling because of that, in the Vaiyai.</l>
+<l xml:lang="en">
+    <head type="subtitle">68-70b: other ladies; 70c-73 courtisan</head>
+  </l>
+<l corresp="68-73">“May you snap out of anger towards the one in its thrall that ends when thinking.</l>
+<l>You [just] had [a bout of] madness, you with hot words [and] the grace of a youthful peacock.</l>
+<l>come to greet [her] reverently!” when they said so, “this is pain befitting to [her] mind.</l>
+<l>Other kinds of people worshipping other kinds of people [is] the coming of disgrace.</l>
+<l>Protect [me]/pay attention, see, mother, you great one. It is not great,</l>
+<l>the coming of a rival against a rival.”</l>
+<l xml:lang="en">
+    <head type="subtitle">wife</head>
+  </l>
+<l corresp="74-78">Giving words that are good without being ashamed,</l>
+<l>you will come with the drum, [your] mouth silent.</l>
+<l>The bangles to put that were given to me by my father, the [pearl] string ornament,</l>
+<l>if the way they came [to you] were not stealth [and] theft on your part,</l>
+<l>take pride in bringing [me] the one who gave [them]!</l>
+<l xml:lang="en">
+    <head type="subtitle">courtesan</head>
+  </l>
+<l corresp="79-82">“While he who has given the price to adorn [me] with a garland, woman,</l>
+<l>is worthy also to unfasten the anklets from your feet,</l>
+<l>you with a jasmine chaplet, the one you love is the one loved by me.</l>
+<l>Catch him, he [is] a robber. I am no robberess.”</l>
+<l xml:lang="en">
+    <head type="subtitle">other ladies to the courtesan and reply of the heroine’s group to hear</head>
+  </l>
+<l corresp="83-90">That is to say,</l>
+<l>“notorious doe, change [your] tactics. The things</l>
+<l>given to you by those who desire [you are] yours, for the country to know.</l>
+<l>Keeping to ward off the protection of him who goes for those who are pleasing in bed,</l>
+<l>is that possible to the wife at home? It is not possible.</l>
+<l>Women possessing fitness, even though they may despise [them],</l>
+<l>will praise [their] spouses as full of nobility [and] bow [to them].</l>
+<l>Rest without knowing what is going on, good girl.”</l>
+<l corresp="91-97">‘The men who feel infatution for women [and] have desires,</l>
+<l>we will renounce [their] chests’ – such sayings have</l>
+<l>no complete meaning for whomever. Don’t be upset. Don’t be upset.</l>
+<l>Will passion stay within the bounds of virtue, you of creeper nature?”</l>
+<l>That is to say,</l>
+<l>it raises from such disgust and sulking,</l>
+<l>the excellence of the Southerner’s Vaiyai.</l>
+<l corresp="98-107">Driving on [its] waves poured by the torrent</l>
+<l>heaped buds like the hands of those creeper nature,</l>
+<l>expanded bunches like snakes enraged,</l>
+<l>blossoms that form like expanded parasols,</l>
+<l>blossoms from the water that sway, having passed through mountain pools,</l>
+<l>blown blossoms unfolded [and] dropped from branches along with buds expanded on bushes,</l>
+<l>coming along the middle way of a long dark tunnel,</l>
+<l>it resembles the water emitted from the trunk of a fierce big elephant bull,</l>
+<l>the flood abounding in long[-lasting] water in Kūṭal with tall buildings,</l>
+<l>at the time it rains on the protective walls.</l>
+<l corresp="108-111">While we praise, [all] mingled together the quarelling suited [to us],</l>
+<l>the intimacy, the departure, the passion and the intoxication,</l>
+<l>while they bathe along with the lovers suited [to them], making unite [all]</l>
+<l>is the nature of the flower-rich Vaiyai.</l>
+</lg>
+</div>
+</body>
 </text>
 <standOff type="wordsplit" corresp="#Pari20">
-<interp type="alignment" select="0">38MG6MG60MG42MG105ML20ML18ML47MG20ML11MG35ML13ML60MG11ML23MG29MG26MG29MG22MG3MG3ML25MG3ML24MG3ML27MG28MG12MG2MG8MG22ML17MG130M2G7MG3ML12MG55MG28MG151MG13MG10ML45ML41ML41MGMG10MG67MG23ML190ML14MG15ML18M2G2ML17MGMG7M2G24MG4M2G57MG30MG61MG22MG11MGMG34M2GMR7M2G16MG36MG5MG44MG9MG16ML132M3G3ML54MG46MG3M2G15M2G49M2G41MG52ML2MG14MG23MG57MG11MG10MG34MG34MG12MR22MG3MG5MG38MG4ML41MG34MG9MG68MG49ML46MG24M2G69MG21MR16ML45MGMR4M2G8M2G7MG5MG9MG28MG29MG7M,916MG344MG148MG36MG649MG175MG147MG127MG359MG52MG300MG119MG</interp>
+<interp type="alignment" select="0">38MG6MG60MG42MG105ML20ML18ML47MG20ML11MG35ML13ML60MG11ML23MG29MG26MG8ML14ML7MG8ML14MG3MG3ML25MG3ML24MG3ML27MG28MG12MG2MG8MG22ML17MG130M2G7MG3ML12MG55MG28MG151MG13MG10ML45ML27MG14ML52MG67MG23ML190ML14MG15ML18M2G2ML25M2G24MG4M2G57MG30MG61MG22MG46M2GMR7M2G16MG36MG5MG44MG9MG16ML135ML54MG46MG3M2G15M2G49M2G41MG52ML2MG14MG23MG10MG46MG11MG10MG34MG34MG12MR22MG3MG5MG38MG4ML41MG34MG9MG68MG49ML46MG24M2G69MG21MR16ML45MGMR4M2G8M2G7MG5MG9MG28MG29MG7M,919MG344MG147MG36MG645MG175MG6M2G136MG127MG359MG52MG300MG119MG</interp>
 <entry>
 <form>kaṭal</form>
 <def>sea</def>
@@ -309,7 +446,7 @@
 </entry>
 <entry>
 <form>pōḻnta</form>
-<def>crossed</def>
+<def>overcome</def>
 <gramGrp>
   <gram type="role">peyareccam</gram>
   <gram type="role">perfective aspect</gram>
@@ -360,7 +497,7 @@
 </entry>
 <entry>
 <form>aḻi</form>
-<def>perish</def>
+<def>dwindle</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
@@ -413,7 +550,7 @@
 </entry>
 <entry>
 <form>paṭintu</form>
-<def>having settled</def>
+<def>having lowered itself</def>
 <gramGrp>
   <gram type="role">absolutive</gram>
 </gramGrp>
@@ -740,8 +877,9 @@
 </entry>
 <entry>
 <form>mītu</form>
-<def>height</def>
+<def>top</def>
 <gramGrp>
+  <gram type="role">postposition</gram>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
@@ -839,6 +977,10 @@
 <form>koṇṭaṉṟ<c type="elided">u</c></form>
 <def>it-took</def>
 <form type="sandhi">koṇṭaṉṟ</form>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>uyar</form>
@@ -921,7 +1063,7 @@
 </entry>
 <entry>
 <form>vaṅkam</form>
-<def>vehicle</def>
+<def>cart</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -937,7 +1079,7 @@
 </entry>
 <entry>
 <form>vaṅka<c type="geminated">p</c></form>
-<def>pull</def>
+<def>cart</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -983,9 +1125,8 @@
 </gramGrp>
 </entry>
 <entry>
-<form>mā</form>
+<form>mā<c type="geminated">p</c></form>
 <def>animal</def>
-<form type="sandhi">āp</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -1007,9 +1148,8 @@
 </gramGrp>
 </entry>
 <entry>
-<form>mā</form>
+<form>mā<c type="geminated">p</c></form>
 <def>animal</def>
-<form type="sandhi">āp</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -1031,9 +1171,8 @@
 </gramGrp>
 </entry>
 <entry>
-<form>mā</form>
+<form>mā<c type="geminated">p</c></form>
 <def>animal</def>
-<form type="sandhi">āp</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -1952,18 +2091,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form>eṉa<c type="geminated">t</c></form>
+<form>eṉa<c type="geminated">t</c>-teyya</form>
 <def>say</def>
+<form type="simple">eṉa</form>
+<form type="sandhi">eṉa<c type="geminated">t</c></form>
 <gramGrp>
   <gram type="role">infinitive</gram>
 </gramGrp>
-</entry>
-<entry>
-<form>teyya</form>
-<def>wane</def>
-<gramGrp>
-  <gram type="role">infinitive</gram>
-</gramGrp>
+<gramGrp type="particle"><m type="enclitic">teyya</m></gramGrp>
 </entry>
 <entry>
 <form>neṟi</form>
@@ -2041,7 +2176,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form><c type="geminated">l</c>uṟaḻp(u)</form>
+<form><c type="geminated">l</c>uṟaḻpu</form>
 <def>hostility</def>
 <form type="sandhi"><c type="geminated">l</c>uṟaḻpi</form>
 <gramGrp>
@@ -2173,9 +2308,9 @@
 </entry>
 <entry>
 <form><c type="glide">y</c>amar</form>
-<def>be-suited</def>
+<def>battle</def>
 <gramGrp>
-  <gram type="role">verbal root</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -2525,12 +2660,11 @@
 </entry>
 <entry>
 <form>takaitt<c type="elided">u</c>-um</form>
-<def>fitting-it</def>
+<def>stopped</def>
 <form type="simple">takaittu</form>
 <form type="sandhi">takaitt</form>
 <gramGrp>
-  <gram type="role">pronominalised noun</gram>
-  <gram type="role">neuter singular</gram>
+  <gram type="role">absolutive</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
@@ -2549,7 +2683,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form>iṭṭārkk(u)</form>
+<form>iṭṭārkku</form>
 <def>placed-they</def>
 <form type="sandhi">iṭṭārkki</form>
 <gramGrp>
@@ -2580,7 +2714,7 @@
 <superEntry type="ambiguous">
 <entry><entry>
 <form>pāṇiyil</form>
-<def>water</def>
+<def>hand</def>
 <gramGrp>
   <gram type="role">locative</gram>
 </gramGrp>
@@ -2588,6 +2722,13 @@
 <entry><entry>
 <form>pāṇiyil</form>
 <def>occasion</def>
+<gramGrp>
+  <gram type="role">locative</gram>
+</gramGrp>
+</entry></entry>
+<entry><entry>
+<form>pāṇiyil</form>
+<def>melody</def>
 <gramGrp>
   <gram type="role">locative</gram>
 </gramGrp>
@@ -2730,7 +2871,7 @@
 </entry>
 <entry>
 <form>vaṭitt<c type="elided">u</c></form>
-<def>drained</def>
+<def>tamed</def>
 <form type="sandhi">vaṭitt</form>
 <gramGrp>
   <gram type="role">absolutive</gram>
@@ -2851,7 +2992,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form>paṭarnt(u)</form>
+<form>paṭarntu</form>
 <def>set-out</def>
 <form type="sandhi">paṭarnti</form>
 <gramGrp>
@@ -3051,9 +3192,9 @@
 </entry>
 <entry>
 <form>tīrum</form>
-<def>ends</def>
+<def>ending</def>
 <gramGrp>
-  <gram type="role">habitual future</gram>
+  <gram type="role">peyareccam</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -3290,8 +3431,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form>a..........</form>
-<form type="sandhi">a……………..</form>
+<form>a……………</form>
 </entry>
 <entry>
 <form>col</form>
@@ -3312,7 +3452,7 @@
 </entry>
 <entry>
 <form>nāṇāmal</form>
-<def>be.ashmaed-not</def>
+<def>be-ashamed-not</def>
 <form type="sandhi">nāṇāmaṟ</form>
 <gramGrp>
   <gram type="role">absolutive</gram>
@@ -3748,7 +3888,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form>numma-<c type="glide">~</c>ē</form>
+<form>numma-<c type="glide">v</c>ē</form>
 <def>your</def>
 <form type="simple">numma</form>
 <gramGrp>
@@ -4766,4 +4906,526 @@
 </gramGrp>
 </entry>
 </standOff>
-</TEI>
+<standOff type="apparatus" corresp="#Pari20" source="alignments/Pari20.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+  <app loc="67,74">
+    <lem wit="#C2">muṟṟupu</lem>
+    <rdg wit="#C1">mār muṟṟupu</rdg>
+  </app>
+  <app loc="81,89">
+    <lem>peytucūṉ</lem>
+    <rdg wit="#C2 #C1">veyti</rdg>
+  </app>
+  <app loc="124,135">
+    <lem wit="#C2">leḻilyāṉaik</lem>
+    <rdg wit="#C1">le<gap reason="lost" quantity="1" unit="character"/>lyāṉaik</rdg>
+  </app>
+  <app loc="145,154">
+    <lem>ṭaḻikaṟai</lem>
+    <rdg wit="#C2 #C1">ṭaḷikaṟai</rdg>
+  </app>
+  <app loc="173,178">
+    <lem>kālai</lem>
+    <rdg wit="#C2 #C1">kālaik</rdg>
+  </app>
+  <app loc="213,225">
+    <lem wit="#C2">malaimaṇantu</lem>
+    <rdg wit="#C1"><gap reason="lost" quantity="1" unit="character"/>laimaṇantu</rdg>
+  </app>
+  <app loc="288,293">
+    <lem>malar</lem>
+    <rdg wit="#C2 #C1">maṇa</rdg>
+  </app>
+  <app loc="307,315">
+    <lem>luṟukāla</lem>
+    <rdg wit="#C2 #C1">luṟukālai</rdg>
+  </app>
+  <app loc="332,343">
+    <lem wit="#C2">komputirtta</lem>
+    <rdg wit="#C1">komputirnta</rdg>
+  </app>
+  <app loc="343,347">
+    <lem>kaṉi</lem>
+    <rdg wit="#C2 #C1">kaḷi</rdg>
+  </app>
+  <app loc="405,414">
+    <lem wit="#C2">taṭampoḻi</lem>
+    <rdg wit="#C1"><gap reason="lost" quantity="1" unit="character"/>ṭam<gap reason="lost" quantity="2" unit="character"/><g ref="#ra_r_kal"/>ḻi</rdg>
+  </app>
+  <app loc="459,468">
+    <lem wit="#C2">paṟaiyoli</lem>
+    <rdg wit="#C1">pa<gap reason="lost" quantity="2" unit="character"/>yoli</rdg>
+  </app>
+  <app loc="485,489">
+    <lem>ṉīrū</lem>
+    <rdg wit="#C2">ṉī<gap reason="illegible" quantity="1" unit="character"/>rū</rdg>
+    <rdg wit="#C1">ṉarū</rdg>
+  </app>
+  <app loc="489,514">
+    <lem>raravattāṟ ṟuyiluṇar peḻīit</lem>
+    <rdg wit="#C2">r vāra</rdg>
+    <rdg wit="#C1">r <gap reason="lost" quantity="2" unit="character"/></rdg>
+  </app>
+  <app loc="514,521">
+    <lem>tiṇṭērp</lem>
+    <rdg wit="#C2">tiraṇṭērp<pb facs="143" type="folio"/><lb n="1"/></rdg>
+    <rdg wit="#C1"><gap reason="lost" quantity="1" unit="character"/>raṇṭēr<lb n="4"/>p</rdg>
+  </app>
+  <app loc="527,533">
+    <lem wit="#C2">vaṅkam</lem>
+    <rdg wit="#C1">vaṅ‡m</rdg>
+  </app>
+  <app loc="541,547">
+    <lem wit="#C1">vaṅkap</lem>
+    <rdg wit="#C2"><gap reason="lost" quantity="3" unit="character"/>p</rdg>
+  </app>
+  <app loc="555,560">
+    <lem>ṟiṇṭē</lem>
+    <rdg wit="#C2 #C1">ṟaṇṭē</rdg>
+  </app>
+  <app loc="574,581">
+    <lem>paṇṇuna</lem>
+    <rdg wit="#C2 #C1">paṇṇunar</rdg>
+  </app>
+  <app loc="603,608">
+    <lem>pēṇik</lem>
+    <rdg wit="#C2 #C1">pēṇi</rdg>
+  </app>
+  <app loc="620,627">
+    <lem wit="#C1">makaḷir</lem>
+    <rdg wit="#C2">mukaḷir</rdg>
+  </app>
+  <app loc="627,632">
+    <lem wit="#C2">kōtai</lem>
+    <rdg wit="#C1">kō<gap reason="lost" quantity="3" unit="character"/></rdg>
+  </app>
+  <app loc="632,639">
+    <lem wit="#C2">maintar</lem>
+    <rdg wit="#C1"><gap reason="lost" quantity="1" unit="character"/>mantar</rdg>
+  </app>
+  <app loc="668,675">
+    <lem wit="#C2">peyyavu</lem>
+    <rdg wit="#C1">
+      <gap reason="lost" quantity="5" unit="character"/>
+    </rdg>
+  </app>
+  <app loc="683,692">
+    <lem wit="#C2">viruppoṭu</lem>
+    <rdg wit="#C1">viruppeṟaṭu</rdg>
+  </app>
+  <app loc="744,752">
+    <lem>ṟeruttat</lem>
+    <rdg wit="#C2">ṟoruttat</rdg>
+    <rdg wit="#C1">reruttat</rdg>
+  </app>
+  <app loc="761,770">
+    <lem>liṟkuṟuki</lem>
+    <rdgGrp select="#C2 #C1">
+      <rdg type="main">liṟkuṟuti</rdg>
+      <rdg type="minor" wit="#C1">liṟku<lb n="6"/>ṟuti</rdg>
+    </rdgGrp>
+  </app>
+  <app loc="781,787">
+    <lem wit="#C2">maruvi</lem>
+    <rdg wit="#C1">maru<gap reason="illegible" quantity="1" unit="character"/>vi</rdg>
+  </app>
+  <app loc="839,848">
+    <lem>taiiyiṉār</lem>
+    <rdg wit="#C2 #C1">taiiviṉār</rdg>
+  </app>
+  <app loc="862,904">
+    <lem>takaivakai taiiyiṉār tār; vakaivakai taiiyiṉār</lem>
+    <rdg wit="#C2 #C1">takaivakai taiiyiṉār</rdg>
+  </app>
+  <app loc="904,909">
+    <lem wit="#C2">mālai</lem>
+    <rdg wit="#C1">mā<gap reason="lost" quantity="1" unit="character"/></rdg>
+  </app>
+  <app loc="909,918">
+    <lem>mikamikac</lem>
+    <rdg wit="#C2">mikamikac maṟṟaiya maṟṟaiya</rdg>
+    <rdg wit="#C1">mikami<lb n="7"/><gap reason="lost" quantity="11" unit="character"/>ya</rdg>
+  </app>
+  <app loc="918,924">
+    <lem wit="#C2">cūṭṭuṅ</lem>
+    <rdg wit="#C1">cūṭuṅ</rdg>
+  </app>
+  <app loc="936,945">
+    <lem wit="#C2">valaiyamu</lem>
+    <rdg wit="#C1">valai<gap reason="illegible" quantity="1" unit="character"/>yamu</rdg>
+  </app>
+  <app loc="953,962">
+    <lem wit="#C2">yaṇiniṟpa</lem>
+    <rdg wit="#C1">ya<gap reason="lost" quantity="3" unit="character"/>pa</rdg>
+  </app>
+  <app loc="962,978">
+    <lem>vēṟiyamar parappi</lem>
+    <rdg wit="#C2 #C1">vēṟiyama rarippi</rdg>
+  </app>
+  <app loc="978,986">
+    <lem wit="#C2">ṉiyalaya</lem>
+    <rdg wit="#C1"><gap reason="lost" quantity="3" unit="character"/>ya</rdg>
+  </app>
+  <app loc="1011,1020">
+    <lem>riṭuvaḷai</lem>
+    <rdg wit="#C2">rīivaḷai</rdg>
+    <rdg wit="#C1"><gap reason="illegible" quantity="1" unit="character"/>rīivaḷai</rdg>
+  </app>
+  <app loc="1026,1031">
+    <lem wit="#C1">ṭīttā</lem>
+    <rdg wit="#C2">ṭittā</rdg>
+  </app>
+  <app loc="1040,1057">
+    <lem wit="#C2">keṭuvaḷai pūṇṭavaṇ</lem>
+    <rdg wit="#C1"><gap reason="lost" quantity="10" unit="character"/>vaṇ</rdg>
+  </app>
+  <app loc="1057,1064">
+    <lem wit="#C2">mēṉiyiṟ</lem>
+    <rdg wit="#C1">mēṉiyi<gap reason="lost" quantity="1" unit="character"/></rdg>
+  </app>
+  <app loc="1064,1069">
+    <lem wit="#C2">kaṇṭu</lem>
+    <rdg wit="#C1"><gap reason="lost" quantity="3" unit="character"/>ṭu</rdg>
+  </app>
+  <app loc="1096,1101">
+    <lem wit="#C1">tanta</lem>
+    <rdg wit="#C2"><gap reason="lost" quantity="1" unit="character"/>nta</rdg>
+  </app>
+  <app loc="1126,1140">
+    <lem>cerucceyta vāḷi</lem>
+    <rdg wit="#C2 #C1">vāḷi cerucceyta</rdg>
+  </app>
+  <app loc="1146,1156">
+    <lem>tavaiyaṉṉa</lem>
+    <rdg wit="#C2">tavaiyavaiyaṉṉa</rdg>
+    <rdg wit="#C1">tavaiyavai<pb facs="156" type="folio"/><lb n="1"/><gap reason="lost" quantity="3" unit="character"/></rdg>
+  </app>
+  <app loc="1156,1181">
+    <lem>nērita ḻuṇkaṇār niraikā ṭāka</lem>
+    <rdg wit="#C2">nērita ḻuṇkaṇār niṟaikā ṭāka</rdg>
+    <rdg wit="#C1">
+      <gap reason="lost" quantity="12" unit="character"/>
+      <gap reason="lost" quantity="1" unit="character"/>
+    </rdg>
+  </app>
+  <app loc="1181,1196">
+    <rdgGrp type="lemma" select="#C2">
+      <lem>vōṭi yoḷittoyyap</lem>
+      <rdg type="minor" wit="#C2">vōṭi yo<lb n="6"/>ḷittoyyap</rdg>
+    </rdgGrp>
+    <rdg wit="#C1"><gap reason="lost" quantity="9" unit="character"/>ttoyyap</rdg>
+  </app>
+  <app loc="1264,1273">
+    <lem wit="#C1">kaṭaleṉat</lem>
+    <rdg wit="#C2"><gap reason="lost" quantity="1" unit="character"/>ṭaleṉat</rdg>
+  </app>
+  <app loc="1273,1293">
+    <rdgGrp type="lemma" select="#C2">
+      <lem>teyya neṟimaṇa ṉēṭiṉar</lem>
+      <rdg type="minor" wit="#C2">teyya neṟimaṇa ṉēṭiṉar<lb n="7"/></rdg>
+    </rdgGrp>
+    <rdg wit="#C1">te<lb n="2"/><gap reason="lost" quantity="2" unit="character"/> <gap reason="lost" quantity="7" unit="character"/><gap reason="illegible" quantity="3" unit="character"/></rdg>
+  </app>
+  <app loc="1293,1301">
+    <lem>cellacco</lem>
+    <rdg wit="#C2">cellacce</rdg>
+    <rdg wit="#C1">callacce</rdg>
+  </app>
+  <app loc="1301,1306">
+    <lem>lēṟṟu</lem>
+    <rdg wit="#C2 #C1">lēṟṟac</rdg>
+  </app>
+  <app loc="1306,1319">
+    <lem wit="#C2">ceṟiniraippeṇ</lem>
+    <rdg wit="#C1">ce<gap reason="lost" quantity="2" unit="character"/>raippe<gap reason="illegible" quantity="1" unit="character"/></rdg>
+  </app>
+  <app loc="1319,1327">
+    <lem wit="#C2">valluṟaḻ</lem>
+    <rdg wit="#C1">valluṟa<gap reason="illegible" quantity="1" unit="character"/></rdg>
+  </app>
+  <app loc="1386,1392">
+    <lem wit="#C2">cittan</lem>
+    <rdg wit="#C1">ci<lb n="3"/><gap reason="lost" quantity="3" unit="character"/></rdg>
+  </app>
+  <app loc="1392,1400">
+    <lem wit="#C2">tikaittu</lem>
+    <rdg wit="#C1">
+      <gap reason="lost" quantity="5" unit="character"/>
+    </rdg>
+  </app>
+  <app loc="1401,1405">
+    <lem wit="#C2">āyat</lem>
+    <rdg wit="#C1"><gap reason="lost" quantity="3" unit="character"/> <gap reason="lost" quantity="2" unit="character"/>t</rdg>
+  </app>
+  <app loc="1419,1428">
+    <lem wit="#C2">yamarkāma</lem>
+    <rdg wit="#C1">
+      <gap reason="illegible" quantity="6" unit="character"/>
+    </rdg>
+  </app>
+  <app loc="1441,1449">
+    <lem>mayakkum</lem>
+    <rdg wit="#C2">mayakki</rdg>
+    <rdg wit="#C1"><gap reason="lost" quantity="1" unit="character"/>yakki</rdg>
+  </app>
+  <app loc="1462,1469">
+    <lem wit="#C1">peṇmaip</lem>
+    <rdg wit="#C2"><g ref="#kompu"/><gap reason="lost" quantity="1" unit="character"/>ṇmaip</rdg>
+  </app>
+  <app loc="1544,1557">
+    <lem>moypuṉa laṭṭik</lem>
+    <rdg wit="#C2">moy<pb facs="144" type="folio"/><lb n="1"/>puṉa lāṭṭik</rdg>
+    <rdg wit="#C1"><g ref="#kompu"/><gap reason="illegible" quantity="7" unit="character"/>ṭṭik</rdg>
+  </app>
+  <app loc="1569,1574">
+    <lem wit="#C1">vayaṟ</lem>
+    <rdg wit="#C2">va<gap reason="illegible" quantity="1" unit="character"/>ṟ</rdg>
+  </app>
+  <app loc="1574,1579">
+    <lem>kāmak</lem>
+    <rdg wit="#C2 #C1">kaḷirmak</rdg>
+  </app>
+  <app loc="1622,1628">
+    <lem wit="#C2">raṇkaṇ</lem>
+    <rdg wit="#C1">ruṇkaṇ</rdg>
+  </app>
+  <app loc="1636,1643">
+    <lem wit="#C2">vaittut</lem>
+    <rdg wit="#C1"><gap reason="lost" quantity="2" unit="character"/>ttut</rdg>
+  </app>
+  <app loc="1659,1671">
+    <lem>takaittumaṭa</lem>
+    <rdg wit="#C2">tataitumaṭa</rdg>
+    <rdg wit="#C1">tatai<gap reason="illegible" quantity="7" unit="character"/>maṭa</rdg>
+  </app>
+  <app loc="1728,1736">
+    <lem wit="#C2">tuṟaippo</lem>
+    <rdg wit="#C1">tuṟai<gap reason="lost" quantity="3" unit="character"/></rdg>
+  </app>
+  <app loc="1736,1749">
+    <lem>tuvikeṭṭataip</lem>
+    <rdgGrp select="#C2 #C1">
+      <rdg type="main">tuvikeṭṭakaip</rdg>
+      <rdg type="minor" wit="#C1">tuvi<lb n="6"/>keṭṭakaip</rdg>
+    </rdgGrp>
+  </app>
+  <app loc="1814,1822">
+    <lem wit="#C1">mattikai</lem>
+    <rdg wit="#C2"><gap reason="illegible" quantity="1" unit="character"/>ttikai</rdg>
+  </app>
+  <app loc="1829,1833">
+    <lem>mōti</lem>
+    <rdg wit="#C2 #C1">mōki</rdg>
+  </app>
+  <app loc="1833,1844">
+    <lem wit="#C2">yavaiyattut</lem>
+    <rdg wit="#C1">yavaittut</rdg>
+  </app>
+  <app loc="1844,1852">
+    <lem>toṭarntē</lem>
+    <rdgGrp select="#C2 #C1">
+      <rdg type="main">toṭarntem</rdg>
+      <rdg type="minor" wit="#C1">toṭarntem<lb n="7"/></rdg>
+    </rdgGrp>
+  </app>
+  <app loc="1868,1872">
+    <lem>tōṭa</lem>
+    <rdg wit="#C2 #C1">tō</rdg>
+  </app>
+  <app loc="1906,1915">
+    <lem>taṉmārpan</lem>
+    <rdgGrp select="#C2 #C1">
+      <rdg type="main">taṉmārpat</rdg>
+      <rdg type="minor" wit="#C2">taṉ<lb n="4"/>mārpat</rdg>
+    </rdgGrp>
+  </app>
+  <app loc="1977,1982">
+    <lem>ḷēcac</lem>
+    <rdg wit="#C2 #C1">rēcac</rdg>
+  </app>
+  <app loc="2096,2106">
+    <lem>maṉattakka</lem>
+    <rdg wit="#C2 #C1">maṉaṟakka</rdg>
+  </app>
+  <app loc="2106,2112">
+    <lem wit="#C2">nōyitu</lem>
+    <rdg wit="#C1">
+      <gap reason="illegible" quantity="6" unit="character"/>
+    </rdg>
+  </app>
+  <app loc="2120,2126">
+    <lem>vēṟṟār</lem>
+    <rdg wit="#C2 #C1">yēṟṟār</rdg>
+  </app>
+  <app loc="2188,2205">
+    <lem>varavu; a…………….. co</lem>
+    <rdg wit="#C2">varavu - a<space quantity="3" unit="character"/> co</rdg>
+    <rdg wit="#C1">varavu - <gap reason="lost" quantity="11" unit="character"/></rdg>
+  </app>
+  <app loc="2213,2220">
+    <lem>nāṇāmaṟ</lem>
+    <rdg wit="#C2 #C1">kāṇāmaṟ</rdg>
+  </app>
+  <app loc="2232,2241">
+    <lem>varuvāynī</lem>
+    <rdg wit="#C2 #C1">varuvāynīya</rdg>
+  </app>
+  <app loc="2355,2363">
+    <lem wit="#C1">mātarniṉ</lem>
+    <rdg wit="#C2">mātaßniṉ</rdg>
+  </app>
+  <app loc="2385,2389">
+    <lem>cāla</lem>
+    <rdg wit="#C2 #C1">cōlai</rdg>
+  </app>
+  <app loc="2389,2398">
+    <lem>vatiralaṅ</lem>
+    <rdg wit="#C2 #C1">yatiralaṅ</rdg>
+  </app>
+  <app loc="2413,2419">
+    <lem>kaṉpaṉ</lem>
+    <rdg wit="#C2 #C1">kaṟpaṉ</rdg>
+  </app>
+  <app loc="2436,2443">
+    <lem>kaḷvinā</lem>
+    <rdg wit="#C2 #C1">kaḷviṉā</rdg>
+  </app>
+  <app loc="2495,2502">
+    <lem>rīpavai</lem>
+    <rdg wit="#C2 #C1">ripavai</rdg>
+  </app>
+  <app loc="2539,2549">
+    <lem>maṉaiyāḷāṟ</lem>
+    <rdgGrp select="#C2 #C1">
+      <rdg type="main">māṉaiyāḷāṟ</rdg>
+      <rdg type="minor" wit="#C2">mā<pb facs="145" type="folio"/><lb n="1"/>ṉaiyāḷāṟ</rdg>
+    </rdgGrp>
+  </app>
+  <app loc="2549,2555">
+    <lem>kākkai</lem>
+    <rdg wit="#C2 #C1">kā</rdg>
+  </app>
+  <app loc="2595,2604">
+    <lem wit="#C2">cāṉṟāṇmai</lem>
+    <rdg wit="#C1"><gap reason="lost" quantity="2" unit="character"/>ṉṟāṇmai</rdg>
+  </app>
+  <app loc="2631,2642">
+    <lem>yiṟaiñcuvār</lem>
+    <rdg wit="#C2 #C1">yiṟaiñcuvāri</rdg>
+  </app>
+  <app loc="2642,2649">
+    <lem>nikaḻva</lem>
+    <rdg wit="#C2 #C1">ṉikaḻva</rdg>
+  </app>
+  <app loc="2657,2664">
+    <lem>nillunī</lem>
+    <rdg wit="#C2 #C1">nilluni</rdg>
+  </app>
+  <app loc="2664,2670">
+    <lem>nallāy</lem>
+    <rdg wit="#C2 #C1">ṉallāy</rdg>
+  </app>
+  <app loc="2686,2696">
+    <lem>ṟamarpuṟṟa</lem>
+    <rdg wit="#C2 #C1">ṟu mārpuṟṟa</rdg>
+  </app>
+  <app loc="2709,2717">
+    <lem wit="#C2">kaṭikuvē</lem>
+    <rdg wit="#C1">kaṭiku<g ref="#kompu"/><gap reason="lost" quantity="1" unit="character"/></rdg>
+  </app>
+  <app loc="2717,2725">
+    <lem wit="#C2">meṉpavai</lem>
+    <rdg wit="#C1"><gap reason="lost" quantity="4" unit="character"/>ṉ<lb n="6"/>pavai</rdg>
+  </app>
+  <app loc="2844,2851">
+    <lem wit="#C2">ciṟappu</lem>
+    <rdg wit="#C1"><gap reason="lost" quantity="1" unit="character"/>ṟappu -</rdg>
+  </app>
+  <app loc="2852,2863">
+    <lem wit="#C2">koṭiyiyalār</lem>
+    <rdg wit="#C1">ko<gap reason="illegible" quantity="5" unit="character"/></rdg>
+  </app>
+  <app loc="2863,2869">
+    <lem wit="#C2">kaipōṟ</lem>
+    <rdg wit="#C1"><gap reason="illegible" quantity="4" unit="character"/>pōṟ</rdg>
+  </app>
+  <app loc="2876,2881">
+    <lem wit="#C2">mukai</lem>
+    <rdg wit="#C1">mu<g rend="vowel-sign">ai</g><gap reason="lost" quantity="2" unit="character"/></rdg>
+  </app>
+  <app loc="2881,2890">
+    <rdgGrp type="lemma" select="#C2">
+      <lem>yaravuṭaṉ</lem>
+      <rdg type="minor" wit="#C2">aravuṭaṉ</rdg>
+    </rdgGrp>
+    <rdg wit="#C1">aravuṭaṉ</rdg>
+  </app>
+  <app loc="2910,2920">
+    <lem wit="#C2">kuṭaivirin</lem>
+    <rdg wit="#C1">cūṭaivirin</rdg>
+  </app>
+  <app loc="2951,2965">
+    <lem wit="#C2">tūṅkuvaṉa nīriṉ</lem>
+    <rdg wit="#C1">tū<gap reason="lost" quantity="5" unit="character"/>riṉ</rdg>
+  </app>
+  <app loc="2970,2980">
+    <lem wit="#C2">ciṉaivirin</lem>
+    <rdg wit="#C1">ci<gap reason="lost" quantity="3" unit="character"/>rin</rdg>
+  </app>
+  <app loc="2980,2991">
+    <lem>tutirntavīp</lem>
+    <rdg wit="#C2 #C1">tutirntavīyē</rdg>
+  </app>
+  <app loc="2991,3000">
+    <lem wit="#C2">putalviri</lem>
+    <rdg wit="#C1">pu<gap reason="lost" quantity="3" unit="character"/>ri</rdg>
+  </app>
+  <app loc="3000,3006">
+    <lem>pōtoṭu</lem>
+    <rdg wit="#C2 #C1">yōtoṭu</rdg>
+  </app>
+  <app loc="3063,3095">
+    <lem>kaṭumā kaḷiṟaṇattuk kaiviṭunīr pōlu</lem>
+    <rdg wit="#C2">kaṭumā kaḷiṇaittuk kaiviṭunīr pōlu</rdg>
+    <rdg wit="#C1"><gap reason="illegible" quantity="4" unit="character"/> ka<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="6" unit="character"/><gap reason="illegible" quantity="11" unit="character"/></rdg>
+  </app>
+  <app loc="3118,3123">
+    <lem wit="#C2">kūṭaṟ</lem>
+    <rdg wit="#C1">kū<gap reason="lost" quantity="2" unit="character"/></rdg>
+  </app>
+  <app loc="3163,3171">
+    <lem wit="#C2">taṇappuṅ</lem>
+    <rdg wit="#C1">taṇa<gap reason="illegible" quantity="3" unit="character"/></rdg>
+  </app>
+  <app loc="3194,3202">
+    <lem>pārāṭṭat</lem>
+    <rdg wit="#C2">pārāṭṭit</rdg>
+    <rdg wit="#C1">pā<lb n="2"/>rāṭṭi<gap reason="lost" quantity="1" unit="character"/></rdg>
+  </app>
+  <app loc="3202,3209">
+    <lem wit="#C2">tāmamar</lem>
+    <rdg wit="#C1"><gap reason="illegible" quantity="1" unit="character"/>mamar</rdg>
+  </app>
+  <app loc="3209,3217">
+    <lem>kātalarō</lem>
+    <rdg wit="#C2 #C1">kātalō</rdg>
+  </app>
+  <app loc="3222,3253">
+    <lem>puṇarvittal pūmali vaiyaik kiyalpu</lem>
+    <rdg wit="#C2 #C1">puṇarvittal</rdg>
+  </app>
+</listApp></standOff></TEI>
