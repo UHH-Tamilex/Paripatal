@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -89,26 +86,26 @@
 <l>with pepper from the mountain side where clouds settle, with sandal,</l>
 <l>like with the foam of buttermilk when churning butter and with others,</l>
 <l>it is eroded  on all upper parts on every side.</l>
-<l></l>
+<l/>
 <l>To the ghat, embracing strings in which pearls are equitably combined, the pearls</l>
 <l>from head-ornaments, shining jewels made of gold, gems from the muddy, pretty flood</l>
 <l>that [come] from right-curving navels  along with the Muñcam ornaments</l>
 <l>that covered the soft heads of sons separated from [their] families,</l>
 <l>comes [the water] to place after place with [girls] with darting [red-]streaked eyes</l>
 <l>who bath all together with their mates.</l>
- <l></l>
+ <l/>
 <l>The fields, because of being laden with released blossom [and] full of water with flowers,</l>
 <l>resembles in ornate beauty a stage of a day of rejoicing,</l>
 <l>where those trained in the melodies buzzing on the beaten eye [of the drum] dance.</l>
-<l></l>
+<l/>
 <l>The groves, they well provide the fragrant blossom of bitter orange</l>
 <l>that abound in place after place along with pollen on which bees hum.</l>
-<l></l>
+<l/>
 <l>While, like those preparing a counter feast to the noisily flowing sweet floods,</l>
 <l>bee eat the nectar [and] sing in the shore groves, the ponds</l>
 <l>and the islets, the beauty of flowers has bloomed</l>
 <l>in all direction at the coming of the Vaiyai.</l>
-<l></l>
+<l/>
 <l>Just seeing the paragon coming back</l>
 <l>to her who does not wipe off the flower water that fell on her baby-coconut breasts,</l>
 <l>after [her] companions all around had thrown [it at her] from squirts(?),</l>
@@ -121,7 +118,7 @@
 <l>he neared [her] without wiping off the [fake] blood, [and] those sweet to embrace</l>
 <l>said “let the girl who has blossomed flourish” – [her] being bashful</l>
 <l>is the accomplishment of the coming of the Vaiyai.</l>
-<l></l>
+<l/>
 <l>As the waterfalls falling from the mountain, joining the shore trees</l>
 <l>on side after side with increasing clusters, becoming beautiful [and] spreading</l>
 <l>with the cool buds about to open from the hair of girls, to which closed buds had been joined,</l>
@@ -129,7 +126,7 @@
 <l>being equal in the manner the wide Ganga, that flowered with strings of stars/fish,</l>
 <l>moves [down] from the sky, for [the world] to flourish, at all times</l>
 <l>is the nature of the Vaiyai where bees hum.</l>
-<l></l>
+<l/>
 <l>While honey trickles from the blossoms into the moving water</l>
 <l>along with the beauty that surrounds [their] openings, [namely] groups of bees with many stripes,</l>
 <l>[blossoms from the hair of those whose]</l> 
@@ -140,7 +137,7 @@
 <l>[his] appearance that is equal to [that of] a mountain from which trickles honey [whose combs] held on [to it]</l>
 <l>when the straighened bamboo, being very high on the height, attacks [it],</l>
 <l>is the nature of the Vaiyai of him with a bannered chariot.</l>
-<l></l>
+<l/>
 <l>Clouds resound on the mountain. On the shore,</l>
 <l>the waves of this sweet flood resound.</l>
 <l>Without that the fragrant sandal, the garlands, the blooming incence</l>
